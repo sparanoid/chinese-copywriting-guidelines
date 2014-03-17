@@ -1,6 +1,6 @@
 # 文案排版指北
 
-為了增強網站文案氣質、營造「高端大氣」的企業文化氛圍，樹立標點符號用法的行業典範，發揚中文博大精深的優良傳統，蔽廠現擬訂中文文案、排版相關用法細則。此細則的主（zhen）要（shi）目的是：
+為了增強網站文案氣質、營造「高端大氣」的企業文化氛圍，樹立標點符號用法的行業典範，發揚中文博大精深的優良傳統，蔽廠現擬訂中文文案、排版相關用法細則。此細則的主（zhēn）要（shí）目的是：
 
 - 使用正確的標點及正確的語法，增強網站氣質，給別人看了不丟人
 - 統一蔽廠內部的標點用法，減少程序員、設計師之間的溝通成本
@@ -94,7 +94,7 @@
 
 > 使用 GitHub 登錄
 
-> 我們的客戶非常高富帥，有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.，AVOS Systems, Inc.，
+> 我們的客戶非常高富帥，有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.，AVOS Systems, Inc.。
 
 錯誤：
 
@@ -112,17 +112,17 @@
 
 > 使用 g17hu6 登錄
 
-> 我們的客戶非常高富帥，有 github、foursquare、microsoft corporation、google、facebook, inc.，avos systems, inc.，
+> 我們的客戶非常高富帥，有 github、foursquare、microsoft corporation、google、facebook, inc.，avos systems, inc.。
 
-> 我們的客戶非常高富帥，有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.，AVOS SYSTEMS, INC.，
+> 我們的客戶非常高富帥，有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.，AVOS SYSTEMS, INC.。
 
-> 我們的客戶非常高富帥，有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.，AVOS Systems, Inc.，
+> 我們的客戶非常高富帥，有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.，AVOS Systems, Inc.。
 
-> 我們的客戶非常高富帥，有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.，avos Systems, Inc.，
+> 我們的客戶非常高富帥，有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.，avos Systems, Inc.。
 
-> 我們的客戶非常高富帥，有 GITHub、foURsQuarE、mIcro$ofT cOrporation、GooGle、fAcEBook, iNc.，AvOs SystemS, InC.，
+> 我們的客戶非常高富帥，有 GITHub、foURsQuarE、mIcro$ofT cOrporation、GooGle、fAcEBook, iNc.，AvOs SystemS, InC.。
 
-> 我們的客戶非常高富帥，有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.，Av0s Sys73mS, 1nC.，
+> 我們的客戶非常高富帥，有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.，Av0s Sys73mS, 1nC.。
 
 ## 尚存爭議的用法
 
