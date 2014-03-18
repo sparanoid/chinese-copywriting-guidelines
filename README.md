@@ -158,3 +158,5 @@ AVOS Cloud       | :heavy_check_mark: | :heavy_multiplication_x:（[文檔](http
 知乎              | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
 V2EX             | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
 SegmentFault     | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
+
+知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
