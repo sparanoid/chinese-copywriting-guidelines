@@ -154,9 +154,12 @@
 
 網站 | 文案 | UGC
 --- | --- | ---
-AVOS Cloud       | :heavy_check_mark: | :heavy_multiplication_x:（[文檔](https://avoscloud.com/docs/) 部分通過腳本達成）
-知乎              | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
-V2EX             | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
-SegmentFault     | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
+[Apple 中國](http://www.apple.com/cn/)                        | :heavy_check_mark: | N/A
+[Microsoft 中國](http://www.microsoft.com/zh-cn/)             | :heavy_check_mark: | N/A
+[AVOS Cloud](http://avoscloud.com/)                          | :heavy_check_mark: | N/A
+[知乎](http://www.zhihu.com/)                                 | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
+[V2EX](http://www.v2ex.com/)                                 | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
+[SegmentFault](http://segmentfault.com/)                     | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
+[Apple4us](http://apple4us.com/)                             | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
