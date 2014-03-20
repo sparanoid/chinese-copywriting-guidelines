@@ -146,7 +146,7 @@
 
 - [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [來自維基百科的關於大小寫字符的相關條目（英文）](http://en.wikipedia.org/wiki/Letter_case)
-- [來自 Oxford dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
+- [來自 Oxford Dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
 - [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
 - [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 
