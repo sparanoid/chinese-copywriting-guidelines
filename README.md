@@ -192,6 +192,7 @@
 - [來自 Oxford Dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
 - [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
 - [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
+- [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 
 <a name="c102"></a>
 ## 已踐行本用法的相關網站
