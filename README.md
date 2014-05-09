@@ -20,6 +20,7 @@
   - [專有名詞使用正確的大小寫](#c3-1)
 - [尚存爭議的用法](#c100)
   - [中文鏈接之間增加空格](#c100-1)
+  - [直角引號](#c100-2)
 - [相關鏈接](#c101)
 - [已踐行本用法的相關網站](#c102)
 
@@ -185,6 +186,20 @@
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
+<a name="c100-2"></a>
+### 直角引號
+
+用法：
+
+> 「老師，『有條不紊』的 『紊』是甚麼意思？」
+
+對比用法：
+
+> 请[提交一个 issue](#) 并分配给相关同事。
+
+> “老师，‘有条不紊’的 ‘紊’是什么意思？”
+
+
 <a name="c101"></a>
 ## 相關鏈接
 
@@ -194,6 +209,7 @@
 - [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
 - [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
+- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 
 <a name="c102"></a>
 ## 已踐行本用法的相關網站
