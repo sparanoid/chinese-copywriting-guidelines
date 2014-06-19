@@ -164,7 +164,7 @@
 
 > 我們的客戶非常高富帥，有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.，Av0s Sys73mS, 1nC.。
 
-注意：當網頁中需要配合整體視覺風格而出現全部大寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;` 對形式進行定義
+注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義
 
 <a name="c100"></a>
 ## 尚存爭議的用法
