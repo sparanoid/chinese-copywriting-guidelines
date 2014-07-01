@@ -1,4 +1,5 @@
 # 文案排版指北
+[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
 
 為了增強網站文案氣質、營造「高端大氣」的企業文化氛圍，樹立標點符號用法的行業典範，發揚中文博大精深的優良傳統，蔽廠現擬訂中文文案、排版相關用法細則。此細則的主（zhēn）要（shí）目的是：
 
