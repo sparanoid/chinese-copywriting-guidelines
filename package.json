@@ -1,0 +1,33 @@
+{
+  "name": "chinese-copywriting-guidelines",
+  "version": "0.0.1",
+  "description": "Chinese Copywriting Guidelines",
+  "author": "Tunghsiao Liu",
+  "homepage": "http://sparanoid.com/",
+  "main": "README.md",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sparanoid/chinese-copywriting-guidelines.git"
+  },
+  "bugs": {
+    "url": "http://github.com/sparanoid/chinese-copywriting-guidelines/issues"
+  },
+  "licenses": {
+    "type": "WTFPL",
+    "url": "http://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/LICENSE"
+  },
+  "keywords": [
+    "chinese",
+    "copywriting",
+    "guideline"
+  ],
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-conventional-changelog": "^1.1.0",
+    "matchdep": "^0.3.0"
+  }
+}
