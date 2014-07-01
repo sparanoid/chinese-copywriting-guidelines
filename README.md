@@ -136,7 +136,7 @@
 
 > 使用 GitHub 登錄
 
-> 我們的客戶非常高富帥，有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.，AVOS Systems, Inc.。
+> 我們的客戶非常高富帥，有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
 錯誤：
 
@@ -197,7 +197,7 @@
 
 對比用法：
 
-> “老师，‘有条不紊’的 ‘紊’是什么意思？”
+> “老师，‘有条不紊’的‘紊’是什么意思？”
 
 
 <a name="c101"></a>
