@@ -110,6 +110,8 @@
 
 > 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
 
+:exclamation: 不明白什麼是全角（全形）與半角（半形）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
+
 <a name="c2-3"></a>
 ### 中文標點與其他字符之間不加空格
 
@@ -120,8 +122,6 @@
 錯誤：
 
 > 剛剛買了一部 iPhone ，好開心！
-
-:exclamation: 不明白什麼是全角（全形）與半角（半形）符號？請訪問維基百科相關詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
 
 <a name="c3"></a>
 ## 大小寫
