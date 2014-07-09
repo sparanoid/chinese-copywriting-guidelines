@@ -15,10 +15,9 @@
   - [中文與數字之間需要增加空格](#c1-2)
   - [數字與單位之間需要增加空格](#c1-3)
 - [標點符號](#c2)
-  - [中文排版時，一律使用全角（fullwidth）中文標點](#c2-1)
-  - [中英文混排時，一律使用全角（fullwidth）中文標點](#c2-2)
-  - [中英文混排時，遇到完整的英文整句，整句內容使用半角（halfwidth）標點](#c2-3)
-  - [中文標點與其他字符之間不加空格](#c2-4)
+  - [中文排版時，一律使用全角中文標點](#c2-1)
+  - [中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點](#c2-2)
+  - [中文標點與其他字符之間不加空格](#c2-3)
 - [大小寫](#c3)
   - [專有名詞使用正確的大小寫](#c3-1)
 - [尚存爭議的用法](#c100)
@@ -78,11 +77,13 @@
 ## 標點符號
 
 <a name="c2-1"></a>
-### 中文排版時，一律使用全角（fullwidth）中文標點
+### 中文排版時，一律使用全角中文標點
 
 正確：
 
 > 嗨！你知道嘛？今天前台的小妹跟我說“喵”了哎！
+
+> 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
 錯誤：
 
@@ -90,31 +91,26 @@
 
 > 嗨!你知道嘛?今天前台的小妹跟我說"喵"了哎!
 
-<a name="c2-2"></a>
-### 中英文混排時，一律使用全角（fullwidth）中文標點
-
-正確：
-
-> 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
-
-錯誤：
-
 > 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
-<a name="c2-3"></a>
-### 中英文混排時，遇到完整的英文整句，整句內容使用半角（halfwidth）標點
+<a name="c2-2"></a>
+### 中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點
 
 正確：
 
 > 喬幫主那句話是怎麼說的？「Stay hungry, stay foolish.」
 
+> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣
+
 錯誤：
 
 > 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」
 
-<a name="c2-4"></a>
+> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
+
+<a name="c2-3"></a>
 ### 中文標點與其他字符之間不加空格
 
 正確：
@@ -124,6 +120,8 @@
 錯誤：
 
 > 剛剛買了一部 iPhone ，好開心！
+
+:exclamation: 不明白什麼是全角（全形）與半角（半形）符號？請訪問維基百科相關詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
 
 <a name="c3"></a>
 ## 大小寫
@@ -210,6 +208,7 @@
 - [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
 - [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
+- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 
 <a name="c102"></a>
