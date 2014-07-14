@@ -10,30 +10,31 @@
 
 ## Table of Contents
 
-- [空格](#c1)
-  - [中英文之間需要增加空格](#c1-1)
-  - [中文與數字之間需要增加空格](#c1-2)
-  - [數字與單位之間需要增加空格](#c1-3)
-- [標點符號](#c2)
-  - [中文排版時，一律使用全角中文標點](#c2-1)
-  - [中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點](#c2-2)
-  - [中文標點與其他字符之間不加空格](#c2-3)
-- [大小寫](#c3)
-  - [專有名詞使用正確的大小寫](#c3-1)
-- [爭議](#c100)
-  - [中文鏈接之間增加空格](#c100-1)
-  - [簡體中文使用直角引號](#c100-2)
-- [相關鏈接](#c101)
-- [誰在這樣做？](#c102)
+- [空格](#spacing)
+  - [中英文之間需要增加空格](#spacing-c1)
+  - [中文與數字之間需要增加空格](#spacing-c2)
+  - [數字與單位之間需要增加空格](#spacing-c3)
+- [標點符號](#punctuation-marks)
+  - [中文排版時，一律使用全角中文標點](#punctuation-marks-c1)
+  - [中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點](#punctuation-marks-c2)
+  - [中文標點與其他字符之間不加空格](#punctuation-marks-c3)
+- [大小寫](#letter-case)
+  - [專有名詞使用正確的大小寫](#letter-case-c1)
+- [爭議](#dispute)
+  - [中文鏈接之間增加空格](#dispute-c1)
+  - [簡體中文使用直角引號](#dispute-c2)
+- [工具](#tools)
+- [參考文獻](#references)
+- [誰在這樣做？](#who-is-using)
 
-<a name="c1"></a>
+<a name="spacing"></a>
 ## 空格
 
 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
 
-<a name="c1-1"></a>
+<a name="spacing-c1"></a>
 ### 中英文之間需要增加空格
 
 正確：
@@ -49,7 +50,7 @@
 完整的正確用法：
 > 在 AVOS Cloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-<a name="c1-2"></a>
+<a name="spacing-c2"></a>
 ### 中文與數字之間需要增加空格
 
 正確：
@@ -62,7 +63,7 @@
 
 > 今天出去買菜花了5000元
 
-<a name="c1-3"></a>
+<a name="spacing-c3"></a>
 ### 數字與單位之間需要增加空格
 
 正確：
@@ -73,10 +74,10 @@
 
 > 我家的寬帶有 1Gbps，硬盤一共有 10TB。
 
-<a name="c2"></a>
+<a name="punctuation-marks"></a>
 ## 標點符號
 
-<a name="c2-1"></a>
+<a name="punctuation-marks-c1"></a>
 ### 中文排版時，一律使用全角中文標點
 
 正確：
@@ -95,7 +96,7 @@
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
-<a name="c2-2"></a>
+<a name="punctuation-marks-c2"></a>
 ### 中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點
 
 正確：
@@ -112,7 +113,7 @@
 
 :exclamation: 不明白什麼是全角（全形）與半角（半形）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
 
-<a name="c2-3"></a>
+<a name="punctuation-marks-c3"></a>
 ### 中文標點與其他字符之間不加空格
 
 正確：
@@ -123,12 +124,12 @@
 
 > 剛剛買了一部 iPhone ，好開心！
 
-<a name="c3"></a>
+<a name="letter-case"></a>
 ## 大小寫
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述
 
-<a name="c3-1"></a>
+<a name="letter-case-c1"></a>
 ### 專有名詞使用正確的大小寫
 
 正確：
@@ -167,12 +168,12 @@
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義
 
-<a name="c100"></a>
+<a name="dispute"></a>
 ## 爭議
 
 :exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的
 
-<a name="c100-1"></a>
+<a name="dispute-c1"></a>
 ### 中文鏈接之間增加空格
 
 （個人推薦的）用法：
@@ -187,7 +188,7 @@
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-<a name="c100-2"></a>
+<a name="dispute-c2"></a>
 ### 簡體中文使用直角引號
 
 用法：
@@ -198,9 +199,14 @@
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
+<a name="tools"></a>
+## 工具
 
-<a name="c101"></a>
-## 相關鏈接
+- [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) — 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白
+- [huacnlee/auto-space](https://github.com/huacnlee/auto-space) — 自动给中文英文之间加入合理的空格
+
+<a name="references"></a>
+## 參考文獻
 
 - [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [來自維基百科的關於大小寫字符的相關條目（英文）](http://en.wikipedia.org/wiki/Letter_case)
@@ -211,7 +217,7 @@
 - [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 
-<a name="c102"></a>
+<a name="who-is-using"></a>
 ## 誰在這樣做？
 
 網站 | 文案 | UGC
