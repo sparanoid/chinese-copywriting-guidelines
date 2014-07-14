@@ -225,11 +225,11 @@
 [Apple 中國](http://www.apple.com/cn/)                        | :heavy_check_mark: | N/A
 [Microsoft 中國](http://www.microsoft.com/zh-cn/)             | :heavy_check_mark: | N/A
 [AVOS Cloud](http://avoscloud.com/)                          | :heavy_check_mark: | N/A
-[知乎](http://www.zhihu.com/)                                 | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
-[V2EX](http://www.v2ex.com/)                                 | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
-[SegmentFault](http://segmentfault.com/)                     | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
+[知乎](http://www.zhihu.com/)                                 | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
+[V2EX](http://www.v2ex.com/)                                 | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
+[SegmentFault](http://segmentfault.com/)                     | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
 [Apple4us](http://apple4us.com/)                             | :heavy_check_mark: | N/A
 [豌豆荚](http://www.wandoujia.com/)                          | :heavy_check_mark: | N/A
-[Ruby China](http://ruby-china.org/)                         | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
+[Ruby China](http://ruby-china.org/)                         | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
