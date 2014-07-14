@@ -224,6 +224,6 @@
 [SegmentFault](http://segmentfault.com/)                     | :heavy_check_mark: | :heavy_multiplication_x:（部分用戶達成）
 [Apple4us](http://apple4us.com/)                             | :heavy_check_mark: | N/A
 [豌豆荚](http://www.wandoujia.com/)                          | :heavy_check_mark: | N/A
-
+[Ruby China](http://ruby-china.org/)                         | :heavy_check_mark: | :heavy_multiplication_x:（標題達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
