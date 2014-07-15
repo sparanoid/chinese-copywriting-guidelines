@@ -1,3 +1,23 @@
+<a name="0.0.2"></a>
+### 0.0.2 (2014-07-15)
+
+
+#### Bug Fixes
+
+* **doc:** Chinese Simplified quote marks confusion ([8666d01f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/8666d01f9c16ddd650d54ca99cf1431e5553f3c8))
+
+
+#### Features
+
+* **docs:**
+  * add numerical digit usage, this could fix GH-8 ([c486b70b](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/c486b70b968da9168109cd50542a373b9f00c112))
+  * add more usage of punctuation marks ([b77c78b4](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/b77c78b47af127fe1d745a59439bdfc4c7af0846))
+  * better TOC anchors, add tools section ([b374670f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/b374670f6cbad87cebd1bed07cfd5663cb224e0a))
+  * simplified rules ([a2f11ce6](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/a2f11ce6696548d3b7c2b7483a3a22edd880c2fb))
+  * simplified chapter titles ([e457f3ec](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/e457f3eccab2ca30813c66e5267c561c2a2f2f16))
+  * add deps check badge ([c9f9c21f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/c9f9c21f80f1da1fb6d432f8b4e2b2b301cb6600))
+
+
 <a name="0.0.1"></a>
 ### 0.0.1 (2014-07-01)
 
