@@ -18,6 +18,7 @@
   - [中文排版時，一律使用全角中文標點](#punctuation-marks-c1)
   - [中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點](#punctuation-marks-c2)
   - [中文標點與其他字符之間不加空格](#punctuation-marks-c3)
+  - [不重複使用標點符號](#punctuation-marks-c4)
 - [大小寫](#letter-case)
   - [專有名詞使用正確的大小寫](#letter-case-c1)
 - [爭議](#dispute)
@@ -124,6 +125,33 @@
 
 > 剛剛買了一部 iPhone ，好開心！
 
+<a name="punctuation-marks-c4"></a>
+### 不重複使用標點符號
+
+正確：
+
+> 德國隊竟然戰勝了巴西隊！
+
+> 她竟然對你說「喵」？！
+
+錯誤：
+
+> 德國隊竟然戰勝了巴西隊！！
+
+> 德國隊竟然戰勝了巴西隊！！！！
+
+> 德國隊竟然戰勝了巴西隊！！！！！！！！
+
+> 德國隊竟然戰勝了巴西隊！！！！！！！！！！！！！！！！
+
+> 她竟然對你說「喵」？！
+
+> 她竟然對你說「喵」？？！！
+
+> 她竟然對你說「喵」？！？！？？！！
+
+> 她竟然對你說「喵」？！？？！！？？！？？？！？！！！！
+
 <a name="letter-case"></a>
 ## 大小寫
 
@@ -216,6 +244,7 @@
 - [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 - [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
+- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
 
 <a name="who-is-using"></a>
 ## 誰在這樣做？
