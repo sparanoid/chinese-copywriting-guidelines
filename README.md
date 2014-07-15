@@ -249,7 +249,7 @@
 ## 工具
 
 - [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) — 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白
-- [huacnlee/auto-space](https://github.com/huacnlee/auto-space) — 自动给中文英文之间加入合理的空格
+- [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) — 自动给中文英文之间加入合理的空格
 
 <a name="references"></a>
 ## 參考文獻
