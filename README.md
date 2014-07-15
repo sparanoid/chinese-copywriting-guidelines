@@ -14,11 +14,13 @@
   - [中英文之間需要增加空格](#spacing-c1)
   - [中文與數字之間需要增加空格](#spacing-c2)
   - [數字與單位之間需要增加空格](#spacing-c3)
+  - [全形標點與其他字符之間不加空格](#spacing-c4)
 - [標點符號](#punctuation-marks)
-  - [中文排版時，一律使用全角中文標點](#punctuation-marks-c1)
-  - [中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點](#punctuation-marks-c2)
-  - [中文標點與其他字符之間不加空格](#punctuation-marks-c3)
-  - [不重複使用標點符號](#punctuation-marks-c4)
+  - [不重複使用標點符號](#punctuation-marks-c1)
+- [全形和半形](#fullwidth-halfwidth)
+  - [使用全形中文標點](#fullwidth-halfwidth-c1)
+  - [數字使用半形字符](#fullwidth-halfwidth-c2)
+  - [遇到完整的英文整句、特殊名詞，其內容使用半形標點](#fullwidth-halfwidth-c3)
 - [大小寫](#letter-case)
   - [專有名詞使用正確的大小寫](#letter-case-c1)
 - [爭議](#dispute)
@@ -75,47 +77,8 @@
 
 > 我家的寬帶有 1Gbps，硬盤一共有 10TB。
 
-<a name="punctuation-marks"></a>
-## 標點符號
-
-<a name="punctuation-marks-c1"></a>
-### 中文排版時，一律使用全角中文標點
-
-正確：
-
-> 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
-
-> 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
-
-錯誤：
-
-> 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
-
-> 嗨!你知道嘛?今天前台的小妹跟我說"喵"了哎!
-
-> 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
-
-> 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
-
-<a name="punctuation-marks-c2"></a>
-### 中文排版時，遇到完整的英文整句、特殊名詞，其內容使用半角標點
-
-正確：
-
-> 喬幫主那句話是怎麼說的？「Stay hungry, stay foolish.」
-
-> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣
-
-錯誤：
-
-> 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」
-
-> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
-
-:exclamation: 不明白什麼是全角（全形）與半角（半形）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
-
-<a name="punctuation-marks-c3"></a>
-### 中文標點與其他字符之間不加空格
+<a name="spacing-c4"></a>
+### 全形標點與其他字符之間不加空格
 
 正確：
 
@@ -125,7 +88,10 @@
 
 > 剛剛買了一部 iPhone ，好開心！
 
-<a name="punctuation-marks-c4"></a>
+<a name="punctuation-marks"></a>
+## 標點符號
+
+<a name="punctuation-marks-c1"></a>
 ### 不重複使用標點符號
 
 正確：
@@ -151,6 +117,58 @@
 > 她竟然對你說「喵」？！？！？？！！
 
 > 她竟然對你說「喵」？！？？！！？？！？？？！？！！！！
+
+<a name="fullwidth-halfwidth"></a>
+## 全形和半形
+
+<a name="fullwidth-halfwidth-c1"></a>
+### 使用全形中文標點
+
+正確：
+
+> 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
+
+> 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
+
+錯誤：
+
+> 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
+
+> 嗨!你知道嘛?今天前台的小妹跟我說"喵"了哎!
+
+> 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
+
+> 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
+
+<a name="fullwidth-halfwidth-c2"></a>
+### 數字使用半形字符
+
+正確：
+
+> 這件蛋糕只賣 1000 元
+
+錯誤：
+
+> 這件蛋糕只賣 １０００ 元
+
+:exclamation: 例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的
+
+<a name="fullwidth-halfwidth-c3"></a>
+### 遇到完整的英文整句、特殊名詞，其內容使用半形標點
+
+正確：
+
+> 喬幫主那句話是怎麼說的？「Stay hungry, stay foolish.」
+
+> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣
+
+錯誤：
+
+> 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」
+
+> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
+
+:exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
 
 <a name="letter-case"></a>
 ## 大小寫
