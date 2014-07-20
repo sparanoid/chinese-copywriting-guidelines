@@ -1,7 +1,7 @@
 # 文案排版指北
 [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
 
-為了增強網站文案氣質、營造「高端大氣」的企業文化氛圍，樹立標點符號用法的行業典範，發揚中文博大精深的優良傳統，蔽廠現擬訂中文文案、排版相關用法細則。此細則的主（zhēn）要（shí）目的是：
+為了增強網站文案氣質、營造「高端大氣」的企業文化氛圍，樹立標點符號用法的行業典範，發揚中文博大精深的優良傳統，蔽廠現擬訂中文文案、排版相關用法細則。此細則的主要目的是：
 
 - 使用正確的標點及正確的語法，增強網站氣質，給別人看了不丟人
 - 統一蔽廠內部的標點用法，減少程序員、設計師之間的溝通成本
