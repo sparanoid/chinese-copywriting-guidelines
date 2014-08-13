@@ -24,8 +24,8 @@
   - [中文鏈接之間增加空格](#dispute-c1)
   - [簡體中文使用直角引號](#dispute-c2)
 - [工具](#tools)
-- [參考文獻](#references)
 - [誰在這樣做？](#who-is-using)
+- [參考文獻](#references)
 
 <a name="spacing"></a>
 ## 空格
@@ -241,19 +241,6 @@
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby | 自动给中文英文之间加入合理的空格
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP | 為 WordPress 的文章中出現的中文和英文、數字、符號之間自動加入空白
 
-<a name="references"></a>
-## 參考文獻
-
-- [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
-- [來自維基百科的關於大小寫字符的相關條目（英文）](http://en.wikipedia.org/wiki/Letter_case)
-- [來自 Oxford Dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
-- [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
-- [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
-- [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
-- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
-- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
-- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
-
 <a name="who-is-using"></a>
 ## 誰在這樣做？
 
@@ -270,3 +257,16 @@
 [Ruby China](http://ruby-china.org/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
+
+<a name="references"></a>
+## 參考文獻
+
+- [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
+- [來自維基百科的關於大小寫字符的相關條目（英文）](http://en.wikipedia.org/wiki/Letter_case)
+- [來自 Oxford Dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
+- [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
+- [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
+- [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
+- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
+- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
