@@ -107,13 +107,9 @@
 
 > 德國隊竟然戰勝了巴西隊！！！！！！！！
 
-> 德國隊竟然戰勝了巴西隊！！！！！！！！！！！！！！！！
-
 > 她竟然對你說「喵」？？！！
 
 > 她竟然對你說「喵」？！？！？？！！
-
-> 她竟然對你說「喵」？！？？！！？？！？？？！？！！！！
 
 <a name="fullwidth-halfwidth"></a>
 ## 全形和半形
@@ -179,35 +175,29 @@
 
 > 使用 GitHub 登錄
 
-> 我們的客戶非常高富帥，有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
+> 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
 錯誤：
 
 > 使用 github 登錄
 
+> 使用 GITHUB 登錄
+
 > 使用 Github 登錄
 
 > 使用 gitHub 登錄
 
-> 使用 GITHUB 登錄
-
-> 使用 GiTHUB 登錄
-
-> 使用 GitHUB 登錄
-
 > 使用 g17hu6 登錄
 
-> 我們的客戶非常高富帥，有 github、foursquare、microsoft corporation、google、facebook, inc.。
+> 我們的客戶有 github、foursquare、microsoft corporation、google、facebook, inc.。
 
-> 我們的客戶非常高富帥，有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
+> 我們的客戶有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
 
-> 我們的客戶非常高富帥，有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
+> 我們的客戶有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
 
-> 我們的客戶非常高富帥，有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
+> 我們的客戶有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 
-> 我們的客戶非常高富帥，有 GITHub、foURsQuarE、mIcro$ofT cOrporation、GooGle、fAcEBook, iNc.。
-
-> 我們的客戶非常高富帥，有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.。
+> 我們的客戶有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.。
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義
 
