@@ -235,9 +235,11 @@
 <a name="tools"></a>
 ## 工具
 
-- [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) — 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白
-- [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) — 自动给中文英文之间加入合理的空格
-- [sparanoid/space-lover](https://github.com/sparanoid/space-lover) — 為 WordPress 的文章中出現的中文和英文、數字、符號之間自動加入空白
+倉庫 | 語言 | 描述
+--- | --- | ---
+[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript | 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白
+[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby | 自动给中文英文之间加入合理的空格
+[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP | 為 WordPress 的文章中出現的中文和英文、數字、符號之間自動加入空白
 
 <a name="references"></a>
 ## 參考文獻
@@ -257,14 +259,14 @@
 
 網站 | 文案 | UGC
 --- | --- | ---
-[Apple 中國](http://www.apple.com/cn/)                        | :heavy_check_mark: | N/A
-[Microsoft 中國](http://www.microsoft.com/zh-cn/)             | :heavy_check_mark: | N/A
-[AVOS Cloud](http://avoscloud.com/)                          | :heavy_check_mark: | N/A
-[知乎](http://www.zhihu.com/)                                 | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
-[V2EX](http://www.v2ex.com/)                                 | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
-[SegmentFault](http://segmentfault.com/)                     | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
-[Apple4us](http://apple4us.com/)                             | :heavy_check_mark: | N/A
-[豌豆荚](http://www.wandoujia.com/)                          | :heavy_check_mark: | N/A
-[Ruby China](http://ruby-china.org/)                         | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
+[Apple 中國](http://www.apple.com/cn/) | :heavy_check_mark: | N/A
+[Microsoft 中國](http://www.microsoft.com/zh-cn/) | :heavy_check_mark: | N/A
+[AVOS Cloud](http://avoscloud.com/) | :heavy_check_mark: | N/A
+[知乎](http://www.zhihu.com/) | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
+[V2EX](http://www.v2ex.com/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
+[SegmentFault](http://segmentfault.com/) | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
+[Apple4us](http://apple4us.com/) | :heavy_check_mark: | N/A
+[豌豆荚](http://www.wandoujia.com/) | :heavy_check_mark: | N/A
+[Ruby China](http://ruby-china.org/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
