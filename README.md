@@ -247,7 +247,11 @@
 網站 | 文案 | UGC
 --- | --- | ---
 [Apple 中國](http://www.apple.com/cn/) | :heavy_check_mark: | N/A
+[Apple 香港](http://www.apple.com/hk/) | :heavy_check_mark: | N/A
+[Apple 台灣](http://www.apple.com/tw/) | :heavy_check_mark: | N/A
 [Microsoft 中國](http://www.microsoft.com/zh-cn/) | :heavy_check_mark: | N/A
+[Microsoft 香港](http://www.microsoft.com/zh-hk/) | :heavy_check_mark: | N/A
+[Microsoft 台灣](http://www.microsoft.com/zh-tw/) | :heavy_check_mark: | N/A
 [AVOS Cloud](http://avoscloud.com/) | :heavy_check_mark: | N/A
 [知乎](http://www.zhihu.com/) | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
 [V2EX](http://www.v2ex.com/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
