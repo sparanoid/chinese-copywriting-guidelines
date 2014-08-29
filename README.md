@@ -187,7 +187,7 @@
 
 > 使用 gitHub 登錄
 
-> 使用 g17hu6 登錄
+> 使用 gｲんĤЦ8 登錄
 
 > 我們的客戶有 github、foursquare、microsoft corporation、google、facebook, inc.。
 
@@ -197,7 +197,7 @@
 
 > 我們的客戶有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 
-> 我們的客戶有 G17Hu6、4sQuarE、m1cro$0fT cOrp0raT10n、G00G13、fAc3600k, 1Nc.。
+> 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義
 
