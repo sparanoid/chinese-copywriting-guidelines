@@ -114,6 +114,8 @@
 <a name="fullwidth-halfwidth"></a>
 ## 全形和半形
 
+:exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
+
 <a name="fullwidth-halfwidth-c1"></a>
 ### 使用全形中文標點
 
@@ -160,8 +162,6 @@
 > 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」
 
 > 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
-
-:exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
 
 <a name="letter-case"></a>
 ## 大小寫
