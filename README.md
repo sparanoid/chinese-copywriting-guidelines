@@ -238,6 +238,7 @@
 倉庫 | 語言 | 描述
 --- | --- | ---
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript | 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白
+[huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js | 同上
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby | 自动给中文英文之间加入合理的空格
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP | 為 WordPress 的文章中出現的中文和英文、數字、符號之間自動加入空白
 
