@@ -254,12 +254,12 @@
 [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
 [AVOS Cloud](http://avoscloud.com/) | Yes | N/A
-[知乎](http://www.zhihu.com/) | Yes | -（部分用戶達成）
-[V2EX](http://www.v2ex.com/) | Yes | -（標題達成）
-[SegmentFault](http://segmentfault.com/) | Yes | -（部分用戶達成）
+[知乎](http://www.zhihu.com/) | Yes | 部分用戶達成
+[V2EX](http://www.v2ex.com/) | Yes | 標題達成
+[SegmentFault](http://segmentfault.com/) | Yes | 部分用戶達成
 [Apple4us](http://apple4us.com/) | Yes | N/A
 [豌豆荚](http://www.wandoujia.com/) | Yes | N/A
-[Ruby China](http://ruby-china.org/) | Yes | -（標題達成）
+[Ruby China](http://ruby-china.org/) | Yes | 標題達成
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
 
