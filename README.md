@@ -247,19 +247,19 @@
 
 網站 | 文案 | UGC
 --- | --- | ---
-[Apple 中國](http://www.apple.com/cn/) | :heavy_check_mark: | N/A
-[Apple 香港](http://www.apple.com/hk/) | :heavy_check_mark: | N/A
-[Apple 台灣](http://www.apple.com/tw/) | :heavy_check_mark: | N/A
-[Microsoft 中國](http://www.microsoft.com/zh-cn/) | :heavy_check_mark: | N/A
-[Microsoft 香港](http://www.microsoft.com/zh-hk/) | :heavy_check_mark: | N/A
-[Microsoft 台灣](http://www.microsoft.com/zh-tw/) | :heavy_check_mark: | N/A
-[AVOS Cloud](http://avoscloud.com/) | :heavy_check_mark: | N/A
-[知乎](http://www.zhihu.com/) | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
-[V2EX](http://www.v2ex.com/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
-[SegmentFault](http://segmentfault.com/) | :heavy_check_mark: | :heavy_minus_sign:（部分用戶達成）
-[Apple4us](http://apple4us.com/) | :heavy_check_mark: | N/A
-[豌豆荚](http://www.wandoujia.com/) | :heavy_check_mark: | N/A
-[Ruby China](http://ruby-china.org/) | :heavy_check_mark: | :heavy_minus_sign:（標題達成）
+[Apple 中國](http://www.apple.com/cn/) | Yes | N/A
+[Apple 香港](http://www.apple.com/hk/) | Yes | N/A
+[Apple 台灣](http://www.apple.com/tw/) | Yes | N/A
+[Microsoft 中國](http://www.microsoft.com/zh-cn/) | Yes | N/A
+[Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
+[Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
+[AVOS Cloud](http://avoscloud.com/) | Yes | N/A
+[知乎](http://www.zhihu.com/) | Yes | -（部分用戶達成）
+[V2EX](http://www.v2ex.com/) | Yes | -（標題達成）
+[SegmentFault](http://segmentfault.com/) | Yes | -（部分用戶達成）
+[Apple4us](http://apple4us.com/) | Yes | N/A
+[豌豆荚](http://www.wandoujia.com/) | Yes | N/A
+[Ruby China](http://ruby-china.org/) | Yes | -（標題達成）
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
 
