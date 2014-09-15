@@ -1,3 +1,31 @@
+<a name="0.0.3"></a>
+### 0.0.3 (2014-09-15)
+
+
+#### Bug Fixes
+
+* **docs:**
+  * no personal emotions here ([a7be2e78](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/a7be2e788b02fe32360ce76a2a065030254821cc))
+  * correct tip position ([86d64f6f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/86d64f6fe923c58778b792b6f085b71ec60b5263))
+  * incorrect note description ([e1e6d227](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/e1e6d227e522f61e3941b10af5cc8a4ae0c8417e))
+  * remove wrong example ([85b57cc0](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/85b57cc04608fb7016f95c96fbf3d5791284e980))
+
+
+#### Features
+
+* **docs:**
+  * simplified table data ([36979a52](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/36979a520d6faa423bafbb9ec63b19cb3f721e92))
+  * no more emojis ([ba6a83a6](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/ba6a83a6b4642b31c1ba8105fa0ddd3195d4fad1))
+  * remove tools description ([0c4870ca](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/0c4870ca30e334f98ce249814ca62e34acfdae1d))
+  * add more examples ([477798b1](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/477798b15c0036487a4bb979d27d50091b3a96d2))
+  * change chapter order ([a8fb6cff](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/a8fb6cff1c4201437f9b5a4ab0049eb23da133d6))
+  * table for tool list ([d9b77e28](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/d9b77e28594b7d9e36b0167862661fc5e95aa595))
+  * less aggressive, more decent examlples ([e6bcb84f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/e6bcb84f9bee7fc27b4bb296b027f9412acc2459))
+  * add more tools ([00141d48](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/00141d488ed8888df61f7ada4c915d31b3e91b1f))
+  * update description ([7c1d7e78](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/7c1d7e78d3e4be8f7e4ef9fea5201087f1ba6b6b))
+  * add spacing exception for product names ([b8cec964](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/b8cec964b0b5d8c46fd6b9e3dfd0000badca07f8))
+
+
 <a name="0.0.2"></a>
 ### 0.0.2 (2014-07-15)
 
