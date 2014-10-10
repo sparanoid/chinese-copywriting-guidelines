@@ -260,6 +260,7 @@
 [Apple4us](http://apple4us.com/) | Yes | N/A
 [豌豆荚](http://www.wandoujia.com/) | Yes | N/A
 [Ruby China](http://ruby-china.org/) | Yes | 標題達成
+[PHPHub](http://phphub.org/) | Yes | 標題達成
 
 知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
 
