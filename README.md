@@ -39,16 +39,16 @@
 
 正確：
 
-> 在 AVOS Cloud 上，數據存儲是圍繞 `AVObject` 進行的。
+> 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
 錯誤：
 
-> 在AVOS Cloud上，數據存儲是圍繞`AVObject`進行的。
+> 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 
-> 在 AVOS Cloud上，數據存儲是圍繞`AVObject` 進行的。
+> 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
 完整的正確用法：
-> 在 AVOS Cloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
+> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
 :exclamation: 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫
 
@@ -253,7 +253,7 @@
 [Microsoft 中國](http://www.microsoft.com/zh-cn/) | Yes | N/A
 [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
-[AVOS Cloud](http://avoscloud.com/) | Yes | N/A
+[LeanCloud](http://leancloud.cn/) | Yes | N/A
 [知乎](http://www.zhihu.com/) | Yes | 部分用戶達成
 [V2EX](http://www.v2ex.com/) | Yes | 標題達成
 [SegmentFault](http://segmentfault.com/) | Yes | 部分用戶達成
