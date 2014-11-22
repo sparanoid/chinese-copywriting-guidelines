@@ -1,7 +1,7 @@
 # 中文文案排版指北
 [![devDependency Status](http://img.shields.io/david/dev/sparanoid/chinese-copywriting-guidelines.svg?style=flat)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
 
-統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質
+統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
 -----
 
@@ -50,20 +50,20 @@
 完整的正確用法：
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-:exclamation: 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫
+:exclamation: 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
 <a name="spacing-c2"></a>
 ### 中文與數字之間需要增加空格
 
 正確：
 
-> 今天出去買菜花了 5000 元
+> 今天出去買菜花了 5000 元。
 
 錯誤：
 
-> 今天出去買菜花了 5000元
+> 今天出去買菜花了 5000元。
 
-> 今天出去買菜花了5000元
+> 今天出去買菜花了5000元。
 
 <a name="spacing-c3"></a>
 ### 數字與單位之間需要增加空格
@@ -114,7 +114,7 @@
 <a name="fullwidth-halfwidth"></a>
 ## 全形和半形
 
-:exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』
+:exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 <a name="fullwidth-halfwidth-c1"></a>
 ### 使用全形中文標點
@@ -140,33 +140,33 @@
 
 正確：
 
-> 這件蛋糕只賣 1000 元
+> 這件蛋糕只賣 1000 元。
 
 錯誤：
 
-> 這件蛋糕只賣 １０００ 元
+> 這件蛋糕只賣 １０００ 元。
 
-:exclamation: 例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的
+:exclamation: 例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
 
 <a name="fullwidth-halfwidth-c3"></a>
 ### 遇到完整的英文整句、特殊名詞，其內容使用半形標點
 
 正確：
 
-> 喬幫主那句話是怎麼說的？「Stay hungry, stay foolish.」
+> 喬幫主那句話是怎麼說的？「Stay hungry, stay foolish.」。
 
-> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣
+> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣。
 
 錯誤：
 
-> 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」
+> 喬幫主那句話是怎麼說的？「Stay hungry，stay foolish。」。
 
-> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣
+> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣。
 
 <a name="letter-case"></a>
 ## 大小寫
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述
+大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
 <a name="letter-case-c1"></a>
 ### 專有名詞使用正確的大小寫
@@ -199,12 +199,12 @@
 
 > 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義
+注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
 <a name="dispute"></a>
 ## 爭議
 
-:exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的
+:exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
 <a name="dispute-c1"></a>
 ### 中文鏈接之間增加空格
@@ -262,7 +262,7 @@
 [Ruby China](http://ruby-china.org/) | Yes | 標題達成
 [PHPHub](http://phphub.org/) | Yes | 標題達成
 
-知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)
+知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)。
 
 <a name="references"></a>
 ## 參考文獻
