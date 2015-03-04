@@ -1,5 +1,5 @@
 # 中文文案排版指北
-[![devDependency Status](http://img.shields.io/david/dev/sparanoid/chinese-copywriting-guidelines.svg?style=flat)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
+[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
 
 統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
