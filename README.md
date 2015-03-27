@@ -246,7 +246,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
-[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP
+[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 
 <a name="who-is-using"></a>
