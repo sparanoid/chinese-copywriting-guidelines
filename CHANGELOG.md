@@ -1,3 +1,23 @@
+<a name="0.0.4"></a>
+### 0.0.4 (2015-04-22)
+
+
+#### Bug Fixes
+
+* **docs:**
+  * typo ([0cb547e3](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/0cb547e3c1ab3354490cbfcf6c11f7b9cb113ea1))
+  * avoid personal writing style ([0fcf17b5](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/0fcf17b5a22b75443b64ad67b7a037288472d6d4))
+
+
+#### Features
+
+* **docs:**
+  * add usage for degrees and percentages ([ad2c239b](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/ad2c239b70c48cb86f1aa9f6cc5622e3a89ca44d))
+  * more specific plugin description ([db8e5f72](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/db8e5f7261e0f38b7bf91eec87e373d9abe83765))
+  * remove vanity PR tips ([ccc36d6f](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/ccc36d6f3c8361e3636c4ca0f6b44cffbf15d9c5))
+  * add new sections to Spacing ([7dc13730](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/7dc137300534f3f4552422d9b5ab961928d2d51d))
+
+
 <a name="0.0.3"></a>
 ### 0.0.3 (2014-09-15)
 
