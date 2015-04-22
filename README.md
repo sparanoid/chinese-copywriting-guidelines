@@ -77,6 +77,20 @@
 
 > 我家的寬帶有 1Gbps，硬盤一共有 10TB。
 
+:exclamation: 例外：度／百分比與數字之間不需要增加空格：
+
+正確：
+
+> 今天是 233° 的高溫。
+
+> 新 MacBook Pro 有 15% 的 CPU 性能提升。
+
+錯誤：
+
+> 今天是 233 ° 的高溫。
+
+> 新 MacBook Pro 有 15 % 的 CPU 性能提升。
+
 <a name="spacing-c4"></a>
 ### 全形標點與其他字符之間不加空格
 
@@ -246,7 +260,8 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
-[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP
+[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
+[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 
 <a name="who-is-using"></a>
 ## 誰在這樣做？
@@ -267,8 +282,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [豌豆荚](http://www.wandoujia.com/) | Yes | N/A
 [Ruby China](http://ruby-china.org/) | Yes | 標題達成
 [PHPHub](http://phphub.org/) | Yes | 標題達成
-
-知道更多這樣的網站？請給我發 [PR](https://help.github.com/articles/using-pull-requests)。
 
 <a name="references"></a>
 ## 參考文獻
