@@ -27,7 +27,8 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-conventional-changelog": "^1.1.0",
+    "grunt-conventional-changelog": "^1.2.1",
+    "grunt-release": "^0.12.0",
     "matchdep": "^0.3.0"
   }
 }
