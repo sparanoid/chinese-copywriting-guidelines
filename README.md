@@ -5,6 +5,8 @@
 
 -----
 
+『[简体中文版传送门](README-Simplified.md)』
+
 ## Table of Contents
 
 - [空格](#spacing)
