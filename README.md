@@ -19,8 +19,9 @@
   - [使用全形中文標點](#fullwidth-halfwidth-c1)
   - [數字使用半形字符](#fullwidth-halfwidth-c2)
   - [遇到完整的英文整句、特殊名詞，其內容使用半形標點](#fullwidth-halfwidth-c3)
-- [大小寫](#letter-case)
-  - [專有名詞使用正確的大小寫](#letter-case-c1)
+- [名詞](#glossaries)
+  - [專有名詞使用正確的大小寫](#glossaries-c1)
+  - [不要使用不地道的縮寫](#glossaries-c2)
 - [爭議](#dispute)
   - [中文鏈接之間增加空格](#dispute-c1)
   - [簡體中文使用直角引號](#dispute-c2)
@@ -188,7 +189,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-<a name="letter-case-c1"></a>
+<a name="glossaries-c1"></a>
 ### 專有名詞使用正確的大小寫
 
 正確：
@@ -220,6 +221,17 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 > 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
+
+<a name="glossaries-c2"></a>
+### 不要使用不地道的縮寫
+
+正確：
+
+> 我們需要一位熟悉 JavaScript、HTML 5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
+
+錯誤：
+
+> 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
 <a name="dispute"></a>
 ## 爭議
