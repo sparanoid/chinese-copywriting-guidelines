@@ -187,10 +187,10 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 <a name="glossaries"></a>
 ## 名詞
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
-
 <a name="glossaries-c1"></a>
 ### 專有名詞使用正確的大小寫
+
+大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
 正確：
 
