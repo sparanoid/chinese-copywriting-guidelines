@@ -184,8 +184,8 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣。
 
-<a name="letter-case"></a>
-## 大小寫
+<a name="glossaries"></a>
+## 名詞
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
