@@ -15,10 +15,7 @@
   "bugs": {
     "url": "http://github.com/sparanoid/chinese-copywriting-guidelines/issues"
   },
-  "licenses": {
-    "type": "WTFPL",
-    "url": "http://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/LICENSE"
-  },
+  "license": "WTFPL",
   "keywords": [
     "chinese",
     "copywriting",
