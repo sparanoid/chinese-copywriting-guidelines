@@ -227,7 +227,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正確：
 
-> 我們需要一位熟悉 JavaScript、HTML 5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
+> 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
 錯誤：
 
@@ -238,7 +238,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 :exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-<a name="dispute-c1"></a>
+<a name="dispute-c1"></a>h
 ### 中文鏈接之間增加空格
 
 用法：
