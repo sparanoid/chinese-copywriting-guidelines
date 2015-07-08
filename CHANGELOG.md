@@ -5,7 +5,7 @@
 #### Bug Fixes
 
 * **docs:**
-  * typo HTML5, fixes https://github.com/sparanoid/chinese-copywriting-guidelines/is ([9a009b3d](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/9a009b3d5d99e21692153c3086fff10b21407dc7))
+  * typo HTML5, fixes #19 ([9a009b3d](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/9a009b3d5d99e21692153c3086fff10b21407dc7))
   * wrong heading ([c2ec2d82](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/c2ec2d82cbab504ee3185b546457c2e148361884))
 * **package:** license not defined ([ac6b463c](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/ac6b463c6903d8e8cfad7cb23b6bd772de8bc6d6))
 
