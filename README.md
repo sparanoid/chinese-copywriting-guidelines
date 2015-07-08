@@ -238,7 +238,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 :exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-<a name="dispute-c1"></a>h
+<a name="dispute-c1"></a>
 ### 中文鏈接之間增加空格
 
 用法：
