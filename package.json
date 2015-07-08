@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "description": "Chinese Copywriting Guidelines",
   "author": "Tunghsiao Liu",
-  "homepage": "http://sparanoid.com/",
+  "homepage": "http://github.com/sparanoid/chinese-copywriting-guidelines",
   "main": "README.md",
   "scripts": {
     "test": "grunt"
@@ -28,7 +28,7 @@
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-conventional-changelog": "^1.2.1",
-    "grunt-release": "^0.12.0",
+    "grunt-release": "^0.13.0",
     "matchdep": "^0.3.0"
   }
 }
