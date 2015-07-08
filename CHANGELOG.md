@@ -1,3 +1,20 @@
+<a name="0.0.5"></a>
+### 0.0.5 (2015-07-08)
+
+
+#### Bug Fixes
+
+* **docs:**
+  * typo HTML5, fixes https://github.com/sparanoid/chinese-copywriting-guidelines/is ([9a009b3d](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/9a009b3d5d99e21692153c3086fff10b21407dc7))
+  * wrong heading ([c2ec2d82](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/c2ec2d82cbab504ee3185b546457c2e148361884))
+* **package:** license not defined ([ac6b463c](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/ac6b463c6903d8e8cfad7cb23b6bd772de8bc6d6))
+
+
+#### Features
+
+* **docs:** avoid unidiomatic jargons ([f2d982d7](http://github.com/sparanoid/chinese-copywriting-guidelines/commit/f2d982d73fa60788c69908039825a772b45a814f))
+
+
 <a name="0.0.4"></a>
 ### 0.0.4 (2015-04-22)
 
