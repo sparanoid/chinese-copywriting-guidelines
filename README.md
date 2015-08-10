@@ -50,6 +50,7 @@
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
 完整的正確用法：
+
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
 :exclamation: 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
