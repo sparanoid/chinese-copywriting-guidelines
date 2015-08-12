@@ -28,5 +28,13 @@
     "grunt-conventional-changelog": "^4.0.0",
     "grunt-npm": "0.0.2",
     "matchdep": "^0.3.0"
-  }
+  },
+  "contributors": [
+    "Jason Lee <huacnlee@gmail.com>",
+    "Huei Tan <huei90@users.noreply.github.com>",
+    "Charlie Jade <summer.alex07@gmail.com>",
+    "Elethom Hunter <elethomhunter@gmail.com>",
+    "Yang Li <idealhack@gmail.com>",
+    "hotoo@users.noreply.github.com>"
+  ]
 }
