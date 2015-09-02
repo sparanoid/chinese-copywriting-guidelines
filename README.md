@@ -275,6 +275,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
+[sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
 
 <a name="who-is-using"></a>
 ## 誰在這樣做？
