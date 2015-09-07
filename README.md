@@ -3,6 +3,8 @@
 
 統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
+Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-guidelines)
+
 -----
 
 ## 目次
