@@ -274,6 +274,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
+[nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
 
