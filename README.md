@@ -9,36 +9,34 @@ Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-g
 
 ## 目次
 
-- [空格](#spacing)
-  - [中英文之間需要增加空格](#spacing-c1)
-  - [中文與數字之間需要增加空格](#spacing-c2)
-  - [數字與單位之間需要增加空格](#spacing-c3)
-  - [全形標點與其他字符之間不加空格](#spacing-c4)
-  - [`-ms-text-autospace` to the rescue?](#spacing-c5)
-- [標點符號](#punctuation-marks)
-  - [不重複使用標點符號](#punctuation-marks-c1)
-- [全形和半形](#fullwidth-halfwidth)
-  - [使用全形中文標點](#fullwidth-halfwidth-c1)
-  - [數字使用半形字符](#fullwidth-halfwidth-c2)
-  - [遇到完整的英文整句、特殊名詞，其內容使用半形標點](#fullwidth-halfwidth-c3)
-- [名詞](#glossaries)
-  - [專有名詞使用正確的大小寫](#glossaries-c1)
-  - [不要使用不地道的縮寫](#glossaries-c2)
-- [爭議](#dispute)
-  - [中文鏈接之間增加空格](#dispute-c1)
-  - [簡體中文使用直角引號](#dispute-c2)
-- [工具](#tools)
-- [誰在這樣做？](#who-is-using)
-- [參考文獻](#references)
+- [空格](#空格)
+  - [中英文之間需要增加空格](#中英文之間需要增加空格)
+  - [中文與數字之間需要增加空格](#中文與數字之間需要增加空格)
+  - [數字與單位之間需要增加空格](#數字與單位之間需要增加空格)
+  - [全形標點與其他字符之間不加空格](#全形標點與其他字符之間不加空格)
+  - [`-ms-text-autospace` to the rescue?](#-ms-text-autospace-to-the-rescue)
+- [標點符號](#標點符號)
+  - [不重複使用標點符號](#不重複使用標點符號)
+- [全形和半形](#全形和半形)
+  - [使用全形中文標點](#使用全形中文標點)
+  - [數字使用半形字符](#數字使用半形字符)
+  - [遇到完整的英文整句、特殊名詞，其內容使用半形標點](#遇到完整的英文整句特殊名詞其內容使用半形標點)
+- [名詞](#名詞)
+  - [專有名詞使用正確的大小寫](#專有名詞使用正確的大小寫)
+  - [不要使用不地道的縮寫](#不要使用不地道的縮寫)
+- [爭議](#爭議)
+  - [中文鏈接之間增加空格](#中文鏈接之間增加空格)
+  - [簡體中文使用直角引號](#簡體中文使用直角引號)
+- [工具](#工具)
+- [誰在這樣做？](#誰在這樣做)
+- [參考文獻](#參考文獻)
 
-<a name="spacing"></a>
 ## 空格
 
 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
 
-<a name="spacing-c1"></a>
 ### 中英文之間需要增加空格
 
 正確：
@@ -57,7 +55,6 @@ Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-g
 
 :exclamation: 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
-<a name="spacing-c2"></a>
 ### 中文與數字之間需要增加空格
 
 正確：
@@ -70,7 +67,6 @@ Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-g
 
 > 今天出去買菜花了5000元。
 
-<a name="spacing-c3"></a>
 ### 數字與單位之間需要增加空格
 
 正確：
@@ -95,7 +91,6 @@ Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-g
 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
-<a name="spacing-c4"></a>
 ### 全形標點與其他字符之間不加空格
 
 正確：
@@ -106,15 +101,12 @@ Other languages: [简体中文](https://github.com/mzlogin/chinese-copywriting-g
 
 > 剛剛買了一部 iPhone ，好開心！
 
-<a name="spacing-c5"></a>
 ### `-ms-text-autospace` to the rescue?
 
 Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 的 CSS 屬性可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 OS X、iOS 的用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
-<a name="punctuation-marks"></a>
 ## 標點符號
 
-<a name="punctuation-marks-c1"></a>
 ### 不重複使用標點符號
 
 正確：
@@ -135,12 +127,10 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 她竟然對你說「喵」？！？！？？！！
 
-<a name="fullwidth-halfwidth"></a>
 ## 全形和半形
 
 :exclamation: 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
-<a name="fullwidth-halfwidth-c1"></a>
 ### 使用全形中文標點
 
 正確：
@@ -159,7 +149,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
-<a name="fullwidth-halfwidth-c2"></a>
 ### 數字使用半形字符
 
 正確：
@@ -172,7 +161,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 :exclamation: 例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
 
-<a name="fullwidth-halfwidth-c3"></a>
 ### 遇到完整的英文整句、特殊名詞，其內容使用半形標點
 
 正確：
@@ -187,10 +175,8 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣。
 
-<a name="glossaries"></a>
 ## 名詞
 
-<a name="glossaries-c1"></a>
 ### 專有名詞使用正確的大小寫
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
@@ -225,7 +211,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
-<a name="glossaries-c2"></a>
 ### 不要使用不地道的縮寫
 
 正確：
@@ -236,12 +221,10 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
-<a name="dispute"></a>
 ## 爭議
 
 :exclamation: 以下用法略帶有個人色彩，既：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-<a name="dispute-c1"></a>
 ### 中文鏈接之間增加空格
 
 用法：
@@ -256,7 +239,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-<a name="dispute-c2"></a>
 ### 簡體中文使用直角引號
 
 用法：
@@ -267,7 +249,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
-<a name="tools"></a>
 ## 工具
 
 倉庫 | 語言
@@ -280,7 +261,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
 
-<a name="who-is-using"></a>
 ## 誰在這樣做？
 
 網站 | 文案 | UGC
@@ -300,7 +280,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [Ruby China](http://ruby-china.org/) | Yes | 標題達成
 [PHPHub](http://phphub.org/) | Yes | 標題達成
 
-<a name="references"></a>
 ## 參考文獻
 
 - [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
