@@ -24,10 +24,10 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-bump": "^0.3.1",
-    "grunt-conventional-changelog": "^4.0.0",
+    "grunt-bump": "^0.6.0",
+    "grunt-conventional-changelog": "^5.0.0",
     "grunt-npm": "0.0.2",
-    "matchdep": "^0.3.0"
+    "matchdep": "^1.0.0"
   },
   "contributors": [
     "Jason Lee <huacnlee@gmail.com>",
