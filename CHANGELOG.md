@@ -1,3 +1,19 @@
+<a name="0.0.7"></a>
+## [0.0.7](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.6...v0.0.7) (2015-10-25)
+
+
+### Features
+
+* **docs:** add badge for HTML version ([ee62ad5](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/ee62ad5))
+* **docs:** add languages section ([b495cc5](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/b495cc5))
+* **docs:** add new tool ([2afe771](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/2afe771))
+* **docs:** remove custom emojis ([b5c5733](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/b5c5733))
+* **docs:** simplify examples ([1ce86f4](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/1ce86f4))
+* **docs:** simplify TOC ([be7f513](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/be7f513))
+* **package:** update contributors ([855514d](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/855514d))
+
+
+
 <a name="0.0.6"></a>
 ## [0.0.6](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.5...v0.0.6) (2015-08-12)
 
