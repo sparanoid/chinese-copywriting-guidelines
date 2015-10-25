@@ -119,8 +119,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 德國隊竟然戰勝了巴西隊！！
 
-> 德國隊竟然戰勝了巴西隊！！！！
-
 > 德國隊竟然戰勝了巴西隊！！！！！！！！
 
 > 她竟然對你說「喵」？？！！
