@@ -273,7 +273,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
 [LeanCloud](http://leancloud.cn/) | Yes | N/A
 [知乎](http://www.zhihu.com/) | Yes | 部分用戶達成
-[V2EX](http://www.v2ex.com/) | Yes | 標題達成
+[V2EX](http://www.v2ex.com/) | Yes | Yes
 [SegmentFault](http://segmentfault.com/) | Yes | 部分用戶達成
 [Apple4us](http://apple4us.com/) | Yes | N/A
 [豌豆荚](http://www.wandoujia.com/) | Yes | N/A
