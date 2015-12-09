@@ -282,12 +282,12 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ## 參考文獻
 
-- [來自 About.com 的大小寫用法（英文）](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
-- [來自維基百科的關於大小寫字符的相關條目（英文）](http://en.wikipedia.org/wiki/Letter_case)
-- [來自 Oxford Dictionaries 的標點相關用法（英文）](http://www.oxforddictionaries.com/us/words/punctuation)
-- [來自普渡大學的標點符號用法（英文）](https://owl.english.purdue.edu/owl/section/1/6/)
-- [來自 wikiHow 的英文標點符號用法 wiki（英文）](http://www.wikihow.com/Use-English-Punctuation-Correctly)
-- [格式－openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
+- [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
+- [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
+- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/us/words/punctuation)
+- [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
+- [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
+- [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 - [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
