@@ -259,6 +259,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
+[hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
 
 ## 誰在這樣做？
 
