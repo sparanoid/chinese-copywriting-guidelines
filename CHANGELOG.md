@@ -1,3 +1,24 @@
+<a name="0.0.8"></a>
+## [0.0.8](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.7...v0.0.8) (2015-12-11)
+
+
+### Bug Fixes
+
+* **docs:** avoid slangs ([d42d646](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/d42d646))
+* **docs:** wrong TOC anchors ([585e71e](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/585e71e))
+
+### Features
+
+* **docs:** add language list ([61a43f4](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/61a43f4))
+* **docs:** add Python library from hjiang/scripts ([1104e24](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/1104e24))
+* **docs:** initial English version ([a732199](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/a732199))
+* **docs:** re-evaluate V2EX ([200eb49](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/200eb49))
+* **docs:** update spacing rule for links ([a2569b3](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/a2569b3))
+* **docs:** use original titles for references ([db596b1](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/db596b1))
+* **package:** update contributors ([c8e29af](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/c8e29af))
+
+
+
 <a name="0.0.7"></a>
 ## [0.0.7](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.6...v0.0.7) (2015-10-25)
 
