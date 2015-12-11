@@ -4,7 +4,11 @@
 
 Chinese copywriting guidelines for better written communication.
 
-Other languages: [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)
+Other languages:
+
+- [English](README.en.md)
+- [Chinese Traditional](README.md)
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
 -----
 
