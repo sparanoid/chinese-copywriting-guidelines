@@ -15,10 +15,10 @@ Other languages:
 ## Table of Contents
 
 - [Spacing](#spacing)
-  - [Place one space before / after English words](#place-one-space-before-after-english-words)
-  - [Place one space before / after numbers](#place-one-space-before-after-numbers)
+  - [Place one space before / after English words](#place-one-space-before--after-english-words)
+  - [Place one space before / after numbers](#place-one-space-before--after-numbers)
   - [Place one space between numbers and units](#place-one-space-between-numbers-and-units)
-  - [No additional spaces before / after punctuation in fullwidth form](#no-additional-spaces-before-after-punctuation-in-fullwidth-form)
+  - [No additional spaces before / after punctuation in fullwidth form](#no-additional-spaces-before--after-punctuation-in-fullwidth-form)
   - [`-ms-text-autospace` to the rescue?](#-ms-text-autospace-to-the-rescue)
 - [Punctuation](#punctuation)
   - [Avoid duplicate punctuation](#avoid-duplicate-punctuation)
@@ -29,7 +29,7 @@ Other languages:
 - [Nouns](#nouns)
   - [Avoid jargons](#avoid-jargons)
 - [Dispute](#dispute)
-  - [Add extra spaces before / after links](#add-extra-spaces-before-after-links)
+  - [Add extra spaces before / after links](#add-extra-spaces-before--after-links)
   - [Use corner brackets for Chinese Simplified](#use-corner-brackets-for-chinese-simplified)
 - [Tools](#tools)
 - [Examples of “Who is doing this?”](#examples-of-who-is-doing-this)
