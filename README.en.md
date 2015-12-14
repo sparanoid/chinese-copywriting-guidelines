@@ -15,10 +15,10 @@ Other languages:
 ## Table of Contents
 
 - [Spacing](#spacing)
-  - [Place one space before / after English words](#place-one-space-before--after-english-words)
-  - [Place one space before / after numbers](#place-one-space-before--after-numbers)
+  - [Place one space before/after English words](#place-one-space-beforeafter-english-words)
+  - [Place one space before/after numbers](#place-one-space-beforeafter-numbers)
   - [Place one space between numbers and units](#place-one-space-between-numbers-and-units)
-  - [No additional spaces before / after punctuation in fullwidth form](#no-additional-spaces-before--after-punctuation-in-fullwidth-form)
+  - [No additional spaces before/after punctuation in fullwidth form](#no-additional-spaces-beforeafter-punctuation-in-fullwidth-form)
   - [`-ms-text-autospace` to the rescue?](#-ms-text-autospace-to-the-rescue)
 - [Punctuation](#punctuation)
   - [Avoid duplicate punctuation](#avoid-duplicate-punctuation)
@@ -29,7 +29,7 @@ Other languages:
 - [Nouns](#nouns)
   - [Avoid jargons](#avoid-jargons)
 - [Dispute](#dispute)
-  - [Add extra spaces before / after links](#add-extra-spaces-before--after-links)
+  - [Add extra spaces before/after links](#add-extra-spaces-beforeafter-links)
   - [Use corner brackets for Chinese Simplified](#use-corner-brackets-for-chinese-simplified)
 - [Tools](#tools)
 - [Examples of “Who is doing this?”](#examples-of-who-is-doing-this)
@@ -41,7 +41,7 @@ Other languages:
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
 
-### Place one space before / after English words
+### Place one space before/after English words
 
 Good:
 
@@ -59,7 +59,7 @@ An example of complete and correct usage:
 
 Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
 
-### Place one space before / after numbers
+### Place one space before/after numbers
 
 Good:
 
@@ -95,7 +95,7 @@ Bad:
 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
-### No additional spaces before / after punctuation in fullwidth form
+### No additional spaces before/after punctuation in fullwidth form
 
 Good:
 
@@ -193,7 +193,7 @@ Bad:
 
 The following usages comprise of personal characteristics. As such, from the perspective of copywriting guidelines, they are still correct regardless of whether they comply with the following rules.
 
-### Add extra spaces before / after links
+### Add extra spaces before/after links
 
 Usage:
 
