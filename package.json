@@ -25,7 +25,7 @@
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bump": "^0.7.0",
-    "grunt-conventional-changelog": "^6.0.1",
+    "grunt-conventional-changelog": "^6.1.0",
     "grunt-npm": "0.0.2",
     "matchdep": "^1.0.0"
   },
