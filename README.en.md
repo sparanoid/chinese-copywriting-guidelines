@@ -39,7 +39,7 @@ Other languages:
 
 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 
-與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
+與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### Place one space before/after English words
 
@@ -243,17 +243,17 @@ Website | Copywriting | UGC
 [LeanCloud](http://leancloud.cn/) | Yes | N/A
 [Zhihu](http://www.zhihu.com/) | Yes | Partial
 [V2EX](http://www.v2ex.com/) | Yes | Yes
-[SegmentFault](http://segmentfault.com/) | Yes | Partial
+[SegmentFault](https://segmentfault.com/) | Yes | Partial
 [Apple4us](http://apple4us.com/) | Yes | N/A
-[Wandoujia](http://www.wandoujia.com/) | Yes | N/A
-[Ruby China](http://ruby-china.org/) | Yes | Partial
-[PHPHub](http://phphub.org/) | Yes | Partial
+[Wandoujia](https://www.wandoujia.com/) | Yes | N/A
+[Ruby China](https://ruby-china.org/) | Yes | Partial
+[PHPHub](https://phphub.org/) | Yes | Partial
 
 ## References
 
 - [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
-- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/us/words/punctuation)
+- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/words/punctuation)
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
 - [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
