@@ -168,15 +168,15 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正確：
 
-> 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」。
+> 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 
-> 推薦你閱讀『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣。
+> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
 錯誤：
 
-> 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」。
+> 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 
-> 推薦你閱讀『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣。
+> 推薦你閱讀《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
 ## 名詞
 
