@@ -30,9 +30,11 @@
     "matchdep": "^1.0.1"
   },
   "contributors": [
-    "Jason Lee <huacnlee@gmail.com>",
     "greenkeeperio-bot <support@greenkeeper.io>",
+    "Jason Lee <huacnlee@gmail.com>",
     "Yang Li <idealhack@gmail.com>",
+    "Zhuang Ma <chumpma@gmail.com>",
+    "ddanist <danx2ist@gmail.com>",
     "tzx <district10@users.noreply.github.com>",
     "NauxLiu@users.noreply.github.com>",
     "Charlie Jade <summer.alex07@gmail.com>",
