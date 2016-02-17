@@ -1,3 +1,19 @@
+<a name="0.0.9"></a>
+## [0.0.9](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.8...v0.0.9) (2016-02-17)
+
+
+### Bug Fixes
+
+* **docs:** wrong TOC anchors ([d0468e7](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/d0468e7))
+
+### Features
+
+* **docs:** update link redirects, props @ReadmeCritic ([02bb41c](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/02bb41c))
+* **docs:** update repo link ([bc736c2](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/bc736c2))
+* **package:** update contributors ([ec9ae8d](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/ec9ae8d))
+
+
+
 <a name="0.0.8"></a>
 ## [0.0.8](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.7...v0.0.8) (2015-12-11)
 
