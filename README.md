@@ -31,7 +31,7 @@ Other languages:
   - [不要使用不地道的縮寫](#不要使用不地道的縮寫)
 - [爭議](#爭議)
   - [鏈接之間增加空格](#鏈接之間增加空格)
-  - [簡體中文使用直角引號](#簡體中文使用直角引號)
+  - [中文使用引號](#中文使用引號)
 - [工具](#工具)
 - [誰在這樣做？](#誰在這樣做)
 - [參考文獻](#參考文獻)
@@ -242,15 +242,15 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-### 簡體中文使用直角引號
+### 中文使用引號
 
-用法：
-
-> 「老师，『有条不紊』的『紊』是什么意思？」
-
-對比用法：
+简體中文使用弯引號：
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
+
+正體中文使用直角引號：
+
+> 「老师，『有条不紊』的『紊』是什么意思？」
 
 ## 工具
 
@@ -293,5 +293,6 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 - [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 - [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [中华人民共和国国家标准标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
