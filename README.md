@@ -283,6 +283,7 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [豌豆荚](https://www.wandoujia.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | 標題達成
 [PHPHub](https://phphub.org/) | Yes | 標題達成
+[少數派](http://sspai.com/) | Yes | N/A
 
 ## 參考文獻
 
