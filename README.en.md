@@ -105,6 +105,8 @@ Bad:
 
 > 剛剛買了一部 iPhone ，好開心！
 
+> 剛剛買了一部 iPhone， 好開心！
+
 ### `-ms-text-autospace` to the rescue?
 
 Microsoft provides a CSS property [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) that can specify the autospacing and narrow space width adjustment of text. However it's not popular, and on other platforms such as OS X and iOS we can not use this feature. So it's better for you to keep up the habit.

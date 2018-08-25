@@ -106,6 +106,8 @@ Other languages:
 
 > 剛剛買了一部 iPhone ，好開心！
 
+> 剛剛買了一部 iPhone， 好開心！
+
 ### `-ms-text-autospace` to the rescue?
 
 Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 的 CSS 屬性可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 OS X、iOS 的用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
