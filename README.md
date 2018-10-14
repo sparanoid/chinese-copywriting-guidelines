@@ -282,11 +282,8 @@ Microsoft 有個 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
-[知乎](https://www.zhihu.com/) | Yes | 部分用戶達成
 [V2EX](https://www.v2ex.com/) | Yes | Yes
-[SegmentFault](https://segmentfault.com/) | Yes | 部分用戶達成
 [Apple4us](http://apple4us.com/) | Yes | N/A
-[豌豆荚](https://www.wandoujia.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | 標題達成
 [PHPHub](https://phphub.org/) | Yes | 標題達成
 [少數派](http://sspai.com/) | Yes | N/A
