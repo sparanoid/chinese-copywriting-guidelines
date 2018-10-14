@@ -18,91 +18,91 @@ Other languages:
   - [Place one space before/after English words](#中英文之間需要增加空格)
   - [Place one space before/after numbers](#中文與數字之間需要增加空格)
   - [Place one space between numbers and units](#數字與單位之間需要增加空格)
-  - \[全形標點與其他字符之間不加空格\](#全形標點與其他字符之間不加空格)
+  - \[No additional spaces before/after punctuation in fullwidth form\](#no-additional-spaces-beforeafter-punctuation-in-fullwidth-form)
   - [`text-spacing` to the rescue?](#text-spacing-to-the-rescue)
-- [標點符號](#標點符號) 
-  - [不重複使用標點符號](#不重複使用標點符號)
-- \[全形和半形\](#全形和半形) 
-  - \[使用全形中文標點\](#使用全形中文標點)
-  - [數字使用半形字符](#數字使用半形字符)
-  - \[遇到完整的英文整句、特殊名詞，其內容使用半形標點\](#遇到完整的英文整句特殊名詞其內容使用半形標點)
-- [名詞](#名詞) 
+- [Punctuation](#標點符號) 
+  - [Avoid duplicate punctuation](#不重複使用標點符號)
+- \[Fullwidth and halfwidth\](#fullwidth-and-halfwidth) 
+  - \[Use punctuation in fullwidth form\](#use-punctuation-in-fullwidth-form)
+  - [Use numbers in halfwidth form](#數字使用半形字符)
+  - \[Use punctuation in halfwidth form for English sentences\](#use-punctuation-in-halfwidth-form-for-english-sentences)
+- [Nouns](#名詞) 
   - [專有名詞使用正確的大小寫](#專有名詞使用正確的大小寫)
-  - [不要使用不地道的縮寫](#不要使用不地道的縮寫)
-- [爭議](#爭議) 
-  - [鏈接之間增加空格](#鏈接之間增加空格)
-  - [簡體中文使用直角引號](#簡體中文使用直角引號)
-- \[工具\](#工具)
-- [誰在這樣做？](#誰在這樣做)
-- [參考文獻](#參考文獻)
+  - [Avoid jargons](#不要使用不地道的縮寫)
+- [Dispute](#爭議) 
+  - [Add extra spaces before/after links](#鏈接之間增加空格)
+  - [Use corner brackets for Chinese Simplified](#簡體中文使用直角引號)
+- \[Tools\](#tools)
+- [Examples of “Who is doing this?”](#誰在這樣做)
+- [References](#參考文獻)
 
-## 空格
+## Spacing
 
 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
-### 中英文之間需要增加空格
+### Place one space before/after English words
 
-正確：
+Good:
 
 > 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
-錯誤：
+Bad:
 
 > 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-完整的正確用法：
+An example of complete and correct usage:
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
+Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
 
-### 中文與數字之間需要增加空格
+### Place one space before/after numbers
 
-正確：
+Good:
 
 > 今天出去買菜花了 5000 元。
 
-錯誤：
+Bad:
 
 > 今天出去買菜花了 5000元。
 > 
 > 今天出去買菜花了5000元。
 
-### 數字與單位之間需要增加空格
+### Place one space between numbers and units
 
-正確：
+Good:
 
 > 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
 
-錯誤：
+Bad:
 
 > 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
 例外：度／百分比與數字之間不需要增加空格：
 
-正確：
+Good:
 
 > 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-錯誤：
+Bad:
 
 > 今天是 233 ° 的高溫。
 > 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
-### 全形標點與其他字符之間不加空格
+### No additional spaces before/after punctuation in fullwidth form
 
-正確：
+Good:
 
 > 剛剛買了一部 iPhone，好開心！
 
-錯誤：
+Bad:
 
 > 剛剛買了一部 iPhone ，好開心！
 > 
@@ -112,17 +112,17 @@ Other languages:
 
 CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
-## 標點符號
+## Punctuation
 
-### 不重複使用標點符號
+### Avoid duplicate punctuation
 
-正確：
+Good:
 
 > 德國隊竟然戰勝了巴西隊！
 > 
 > 她竟然對你說「喵」？！
 
-錯誤：
+Bad:
 
 > 德國隊竟然戰勝了巴西隊！！
 > 
@@ -132,7 +132,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 
 > 她竟然對你說「喵」？！？！？？！！
 
-## 全形和半形
+## Fullwidth and halfwidth
 
 不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
@@ -226,11 +226,11 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
-## 爭議
+## Dispute
 
 以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-### 鏈接之間增加空格
+### Add extra spaces before/after links
 
 用法：
 
@@ -244,7 +244,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-### 簡體中文使用直角引號
+### Use corner brackets for Chinese Simplified
 
 用法：
 
@@ -254,7 +254,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
-## 工具
+## Tools
 
 | 倉庫                                                                                                                              | 語言              |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -269,7 +269,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
 
-## 誰在這樣做？
+## Examples of “Who is doing this?”
 
 | 網站                                              | 文案  | UGC  |
 | ----------------------------------------------- | --- | ---- |
@@ -286,7 +286,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [PHPHub](https://phphub.org/)                   | Yes | 標題達成 |
 | [少數派](http://sspai.com/)                        | Yes | N/A  |
 
-## 參考文獻
+## References
 
 - [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
