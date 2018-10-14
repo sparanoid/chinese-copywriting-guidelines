@@ -215,13 +215,13 @@ The following usages comprise of personal characteristics. As such, from the per
 
 ### Add extra spaces before/after links
 
-用法：
+Usage:
 
 > 请 [提交一个 issue](#) 并分配给相关同事。
 > 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
-對比用法：
+compared with:
 
 > 请[提交一个 issue](#) 并分配给相关同事。
 > 
@@ -229,11 +229,11 @@ The following usages comprise of personal characteristics. As such, from the per
 
 ### Use corner brackets for Chinese Simplified
 
-用法：
+Usage:
 
 > 「老师，『有条不紊』的『紊』是什么意思？」
 
-對比用法：
+compared with:
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
