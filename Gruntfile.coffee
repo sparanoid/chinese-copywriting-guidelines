@@ -29,10 +29,6 @@ module.exports = (grunt) ->
         tagMessage: 'chore: create tag %VERSION%'
         push: false
 
-  grunt.registerTask "default", "Default task aka. build task", [
-    "changelog"
-  ]
-
   grunt.registerTask "default", "Default task aka. build task", (type) ->
     grunt.task.run [
       "npm-contributors"
