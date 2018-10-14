@@ -6,35 +6,18 @@ Chinese copywriting guidelines for better written communication.
 
 Other languages:
 
-- [English](README.en.md)
+- [English](README.en-US.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines) (external)
+- [Chinese Simplifed](README.zh-CN.md)
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 * * *
 
 ## Table of Contents
 
-- [Spacing](#空格) 
-  - [Place one space before/after English words](#中英文之間需要增加空格)
-  - [Place one space before/after numbers](#中文與數字之間需要增加空格)
-  - [Place one space between numbers and units](#數字與單位之間需要增加空格)
-  - \[No additional spaces before/after punctuation in fullwidth form\](#no-additional-spaces-beforeafter-punctuation-in-fullwidth-form)
-  - [`text-spacing` to the rescue?](#text-spacing-to-the-rescue)
-- [Punctuation](#標點符號) 
-  - [Avoid duplicate punctuation](#不重複使用標點符號)
-- \[Fullwidth and halfwidth\](#fullwidth-and-halfwidth) 
-  - \[Use punctuation in fullwidth form\](#use-punctuation-in-fullwidth-form)
-  - [Use numbers in halfwidth form](#數字使用半形字符)
-  - \[Use punctuation in halfwidth form for English sentences\](#use-punctuation-in-halfwidth-form-for-english-sentences)
-- [Nouns](#名詞) 
-  - [專有名詞使用正確的大小寫](#專有名詞使用正確的大小寫)
-  - [Avoid jargons](#不要使用不地道的縮寫)
-- [Dispute](#爭議) 
-  - [Add extra spaces before/after links](#鏈接之間增加空格)
-  - [Use corner brackets for Chinese Simplified](#簡體中文使用直角引號)
-- \[Tools\](#tools)
-- [Examples of “Who is doing this?”](#誰在這樣做)
-- [References](#參考文獻)
+{:.no_toc}
+
+- TOC {:toc}
 
 ## Spacing
 
@@ -44,29 +27,29 @@ Other languages:
 
 ### Place one space before/after English words
 
-Good:
+正確：
 
 > 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
-Bad:
+錯誤：
 
 > 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-An example of complete and correct usage:
+完整的正確用法：
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
+例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
 ### Place one space before/after numbers
 
-Good:
+正確：
 
 > 今天出去買菜花了 5000 元。
 
-Bad:
+錯誤：
 
 > 今天出去買菜花了 5000元。
 > 
@@ -74,23 +57,23 @@ Bad:
 
 ### Place one space between numbers and units
 
-Good:
+正確：
 
 > 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
 
-Bad:
+錯誤：
 
 > 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
 例外：度／百分比與數字之間不需要增加空格：
 
-Good:
+正確：
 
 > 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-Bad:
+錯誤：
 
 > 今天是 233 ° 的高溫。
 > 
@@ -98,11 +81,11 @@ Bad:
 
 ### No additional spaces before/after punctuation in fullwidth form
 
-Good:
+正確：
 
 > 剛剛買了一部 iPhone，好開心！
 
-Bad:
+錯誤：
 
 > 剛剛買了一部 iPhone ，好開心！
 > 
@@ -116,13 +99,13 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ### Avoid duplicate punctuation
 
-Good:
+正確：
 
 > 德國隊竟然戰勝了巴西隊！
 > 
 > 她竟然對你說「喵」？！
 
-Bad:
+錯誤：
 
 > 德國隊竟然戰勝了巴西隊！！
 > 
@@ -134,17 +117,17 @@ Bad:
 
 ## Fullwidth and halfwidth
 
-If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
+不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### Use punctuation in fullwidth form
 
-Good:
+正確：
 
 > 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
 > 
 > 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
-Bad:
+錯誤：
 
 > 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
 > 
@@ -156,25 +139,25 @@ Bad:
 
 ### Use numbers in halfwidth form
 
-Good:
+正確：
 
 > 這件蛋糕只賣 1000 元。
 
-Bad:
+錯誤：
 
 > 這件蛋糕只賣 １０００ 元。
 
-Exceptions: fullwidth numbers are acceptable for better visual alignment in graphic design.
+例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
 
 ### Use punctuation in halfwidth form for English sentences
 
-Good:
+正確：
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 > 
 > 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-Bad:
+錯誤：
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 > 
@@ -186,13 +169,13 @@ Bad:
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-Good:
+正確：
 
 > 使用 GitHub 登錄
 > 
 > 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-Bad:
+錯誤：
 
 > 使用 github 登錄
 > 
@@ -218,27 +201,27 @@ Bad:
 
 ### Avoid jargons
 
-Good:
+正確：
 
 > 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
-Bad:
+錯誤：
 
 > 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
 ## Dispute
 
-The following usages comprise of personal characteristics. As such, from the perspective of copywriting guidelines, they are **still correct** regardless of whether they comply with the following rules.
+以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
 ### Add extra spaces before/after links
 
-Usage:
+用法：
 
 > 请 [提交一个 issue](#) 并分配给相关同事。
 > 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
-compared with:
+對比用法：
 
 > 请[提交一个 issue](#) 并分配给相关同事。
 > 
@@ -246,11 +229,11 @@ compared with:
 
 ### Use corner brackets for Chinese Simplified
 
-Usage:
+用法：
 
 > 「老师，『有条不紊』的『紊』是什么意思？」
 
-compared with:
+對比用法：
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
