@@ -1,0 +1,3 @@
+files:
+  - source: /README.md
+    translation: /README.%locale%.md
