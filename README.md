@@ -10,7 +10,7 @@ Other languages:
 
 - [English](README.en.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplifed (external)](https://github.com/mzlogin/chinese-copywriting-guidelines)
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 -----
 
