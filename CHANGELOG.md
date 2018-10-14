@@ -1,3 +1,25 @@
+<a name="0.0.10"></a>
+## [0.0.10](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.9...v0.0.10) (2018-10-14)
+
+
+### Bug Fixes
+
+* **docs:** update adverb ([79fa169](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/79fa169))
+* **docs:** wrong external link indicator ([ad6fffa](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/ad6fffa))
+
+
+### Features
+
+* **docs:** add `text spacing` notice, fixes https://github.com/sparanoid/chinese-copywriting-guidelines/issues/51 ([949547e](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/949547e))
+* **docs:** add another bad example to spacing ([a3fbf58](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/a3fbf58))
+* **docs:** add jxlwqq/chinese-typesetting ([#62](https://github.com/sparanoid/chinese-copywriting-guidelines/issues/62)) ([161c82c](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/161c82c))
+* **docs:** add python lib hint, fixes https://github.com/sparanoid/chinese-copywriting-guidelines/issues/50 ([94b00c6](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/94b00c6))
+* **docs:** examples cleanup ([3d8de98](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/3d8de98))
+* **docs:** update punctuations ([c44d96a](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/c44d96a))
+* **package:** update contributors ([03f8e8e](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/03f8e8e))
+
+
+
 <a name="0.0.9"></a>
 ## [0.0.9](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.8...v0.0.9) (2016-02-17)
 
