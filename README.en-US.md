@@ -1,8 +1,8 @@
-# 中文文案排版指北
+# Chinese Copywriting Guidelines
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
 
-統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
+Chinese copywriting guidelines for better written communication.
 
 Other languages:
 
@@ -12,12 +12,12 @@ Other languages:
 
 * * *
 
-## 目次
+## Table of Contents
 
-- [空格](#空格) 
-  - [中英文之間需要增加空格](#中英文之間需要增加空格)
-  - [中文與數字之間需要增加空格](#中文與數字之間需要增加空格)
-  - [數字與單位之間需要增加空格](#數字與單位之間需要增加空格)
+- [Spacing](#空格) 
+  - [Place one space before/after English words](#中英文之間需要增加空格)
+  - [Place one space before/after numbers](#中文與數字之間需要增加空格)
+  - [Place one space between numbers and units](#數字與單位之間需要增加空格)
   - \[全形標點與其他字符之間不加空格\](#全形標點與其他字符之間不加空格)
   - [`text-spacing` to the rescue?](#text-spacing-to-the-rescue)
 - [標點符號](#標點符號) 
