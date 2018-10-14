@@ -1,6 +1,6 @@
 # Chinese Copywriting Guidelines
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines) [![Greenkeeper 徽章](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency 状态](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![使用 Almace Scaffolding 构建](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
 
 Chinese copywriting guidelines for better written communication.
 
@@ -8,7 +8,7 @@ Other languages:
 
 - [English](README.en.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines) (external)
 
 * * *
 
@@ -18,91 +18,91 @@ Other languages:
   - [Place one space before/after English words](#中英文之間需要增加空格)
   - [Place one space before/after numbers](#中文與數字之間需要增加空格)
   - [Place one space between numbers and units](#數字與單位之間需要增加空格)
-  - \[全形標點與其他字符之間不加空格\](#全形標點與其他字符之間不加空格)
+  - \[No additional spaces before/after punctuation in fullwidth form\](#no-additional-spaces-beforeafter-punctuation-in-fullwidth-form)
   - [`text-spacing` to the rescue?](#text-spacing-to-the-rescue)
-- [標點符號](#標點符號) 
-  - [不重複使用標點符號](#不重複使用標點符號)
-- \[全形和半形\](#全形和半形) 
-  - \[使用全形中文標點\](#使用全形中文標點)
-  - [數字使用半形字符](#數字使用半形字符)
-  - \[遇到完整的英文整句、特殊名詞，其內容使用半形標點\](#遇到完整的英文整句特殊名詞其內容使用半形標點)
-- [名詞](#名詞) 
+- [Punctuation](#標點符號) 
+  - [Avoid duplicate punctuation](#不重複使用標點符號)
+- \[Fullwidth and halfwidth\](#fullwidth-and-halfwidth) 
+  - \[Use punctuation in fullwidth form\](#use-punctuation-in-fullwidth-form)
+  - [Use numbers in halfwidth form](#數字使用半形字符)
+  - \[Use punctuation in halfwidth form for English sentences\](#use-punctuation-in-halfwidth-form-for-english-sentences)
+- [Nouns](#名詞) 
   - [專有名詞使用正確的大小寫](#專有名詞使用正確的大小寫)
-  - [不要使用不地道的縮寫](#不要使用不地道的縮寫)
-- [爭議](#爭議) 
-  - [鏈接之間增加空格](#鏈接之間增加空格)
-  - [簡體中文使用直角引號](#簡體中文使用直角引號)
-- \[工具\](#工具)
-- [誰在這樣做？](#誰在這樣做)
-- [參考文獻](#參考文獻)
+  - [Avoid jargons](#不要使用不地道的縮寫)
+- [Dispute](#爭議) 
+  - [Add extra spaces before/after links](#鏈接之間增加空格)
+  - [Use corner brackets for Chinese Simplified](#簡體中文使用直角引號)
+- \[Tools\](#tools)
+- [Examples of “Who is doing this?”](#誰在這樣做)
+- [References](#參考文獻)
 
-## 空格
+## Spacing
 
 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
-### 中英文之間需要增加空格
+### Place one space before/after English words
 
-正確：
+Good:
 
 > 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
-錯誤：
+Bad:
 
 > 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-完整的正確用法：
+An example of complete and correct usage:
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
+Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
 
-### 中文與數字之間需要增加空格
+### Place one space before/after numbers
 
-正確：
+Good:
 
 > 今天出去買菜花了 5000 元。
 
-錯誤：
+Bad:
 
 > 今天出去買菜花了 5000元。
 > 
 > 今天出去買菜花了5000元。
 
-### 數字與單位之間需要增加空格
+### Place one space between numbers and units
 
-正確：
+Good:
 
 > 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
 
-錯誤：
+Bad:
 
 > 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
 例外：度／百分比與數字之間不需要增加空格：
 
-正確：
+Good:
 
 > 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-錯誤：
+Bad:
 
 > 今天是 233 ° 的高溫。
 > 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
-### 全形標點與其他字符之間不加空格
+### No additional spaces before/after punctuation in fullwidth form
 
-正確：
+Good:
 
 > 剛剛買了一部 iPhone，好開心！
 
-錯誤：
+Bad:
 
 > 剛剛買了一部 iPhone ，好開心！
 > 
@@ -112,17 +112,17 @@ Other languages:
 
 CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
-## 標點符號
+## Punctuation
 
-### 不重複使用標點符號
+### Avoid duplicate punctuation
 
-正確：
+Good:
 
 > 德國隊竟然戰勝了巴西隊！
 > 
 > 她竟然對你說「喵」？！
 
-錯誤：
+Bad:
 
 > 德國隊竟然戰勝了巴西隊！！
 > 
@@ -132,19 +132,19 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 
 > 她竟然對你說「喵」？！？！？？！！
 
-## 全形和半形
+## Fullwidth and halfwidth
 
-不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
 
-### 使用全形中文標點
+### Use punctuation in fullwidth form
 
-正確：
+Good:
 
 > 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
 > 
 > 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
-錯誤：
+Bad:
 
 > 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
 > 
@@ -154,45 +154,45 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
-### 數字使用半形字符
+### Use numbers in halfwidth form
 
-正確：
+Good:
 
 > 這件蛋糕只賣 1000 元。
 
-錯誤：
+Bad:
 
 > 這件蛋糕只賣 １０００ 元。
 
-例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
+Exceptions: fullwidth numbers are acceptable for better visual alignment in graphic design.
 
-### 遇到完整的英文整句、特殊名詞，其內容使用半形標點
+### Use punctuation in halfwidth form for English sentences
 
-正確：
+Good:
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 > 
 > 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-錯誤：
+Bad:
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 > 
 > 推薦你閱讀《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
-## 名詞
+## Nouns
 
 ### 專有名詞使用正確的大小寫
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-正確：
+Good:
 
 > 使用 GitHub 登錄
 > 
 > 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-錯誤：
+Bad:
 
 > 使用 github 登錄
 > 
@@ -216,47 +216,47 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
-### 不要使用不地道的縮寫
+### Avoid jargons
 
-正確：
+Good:
 
 > 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
-錯誤：
+Bad:
 
 > 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
-## 爭議
+## Dispute
 
-以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
+The following usages comprise of personal characteristics. As such, from the perspective of copywriting guidelines, they are **still correct** regardless of whether they comply with the following rules.
 
-### 鏈接之間增加空格
+### Add extra spaces before/after links
 
-用法：
+Usage:
 
 > 请 [提交一个 issue](#) 并分配给相关同事。
 > 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
-對比用法：
+compared with:
 
 > 请[提交一个 issue](#) 并分配给相关同事。
 > 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-### 簡體中文使用直角引號
+### Use corner brackets for Chinese Simplified
 
-用法：
+Usage:
 
 > 「老师，『有条不紊』的『紊』是什么意思？」
 
-對比用法：
+compared with:
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
-## 工具
+## Tools
 
-| 倉庫                                                                                                                              | 語言              |
+| Repository                                                                                                                      | Language        |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
 | [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
@@ -269,7 +269,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
 
-## 誰在這樣做？
+## Examples of “Who is doing this?”
 
 | 網站                                              | 文案  | UGC  |
 | ----------------------------------------------- | --- | ---- |
@@ -286,7 +286,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [PHPHub](https://phphub.org/)                   | Yes | 標題達成 |
 | [少數派](http://sspai.com/)                        | Yes | N/A  |
 
-## 參考文獻
+## References
 
 - [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
@@ -294,6 +294,6 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
 - [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
-- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [全形和半形 - 維基百科](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 - [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
