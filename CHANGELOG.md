@@ -1,3 +1,18 @@
+<a name="0.1.0"></a>
+# [0.1.0](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.10...v0.1.0) (2018-10-14)
+
+
+### Bug Fixes
+
+* **grunt:** duplicated default task ([14c907f](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/14c907f))
+
+
+### Features
+
+* **docs:** switch license to MIT to meet OSI reqirements ([b48b912](https://github.com/sparanoid/chinese-copywriting-guidelines/commit/b48b912))
+
+
+
 <a name="0.0.10"></a>
 ## [0.0.10](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.9...v0.0.10) (2018-10-14)
 
