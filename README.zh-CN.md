@@ -2,18 +2,18 @@
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines) [![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
 
-統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
+统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
 Other languages:
 
 - [English](README.en-US.md)
 - [Chinese Traditional](README.md)
 - [Chinese Simplifed](README.zh-CN.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
 
 * * *
 
-## 目次
+## 目录
 
 {:.no_toc}
 
@@ -21,23 +21,23 @@ Other languages:
 
 ## 空格
 
-「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
+「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。 毕竟爱情跟书写都需要适时地留白。
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
-### 中英文之間需要增加空格
+### 中英文之间需要增加空格
 
-正確：
+正确：
 
-> 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
+> 在 LeanCloud 上，数据存储是围绕`AVObject` 进行的。
 
-錯誤：
+错误：
 
 > 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-完整的正確用法：
+完整的正确用法：
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
@@ -203,7 +203,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 正確：
 
-> 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
+> 我们需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端开发者。
 
 錯誤：
 
@@ -239,7 +239,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ## 工具
 
-| 倉庫                                                                                                                              | 語言              |
+| 仓库                                                                                                                              | 语言              |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
 | [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
