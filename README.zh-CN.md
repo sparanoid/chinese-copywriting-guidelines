@@ -4,12 +4,12 @@
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-Other languages:
+其他语言：
 
-- [English](README.en-US.md)
-- [Chinese Traditional](README.md)
-- [Chinese Simplifed](README.zh-CN.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
+- [英语](README.en-US.md)
+- [繁体中文](README.md)
+- [简体中文](README.zh-CN.md)
+- [简体中文](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
 
 * * *
 
@@ -23,47 +23,47 @@ Other languages:
 
 「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。 毕竟爱情跟书写都需要适时地留白。
 
-與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### 中英文之间需要增加空格
 
 正确：
 
-> 在 LeanCloud 上，数据存储是围绕`AVObject` 进行的。
+> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。
 
 错误：
 
-> 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
+> 在LeanCloud上，数据存储是围绕`AVObject`进行的。
 > 
-> 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
+> 在 LeanCloud上，数据存储是围绕`AVObject` 进行的。
 
 完整的正确用法：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
+> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。 每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。 数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
+例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
 
-### 中文與數字之間需要增加空格
+### 中文与数字之间需要增加空格
 
-正確：
+正确：
 
-> 今天出去買菜花了 5000 元。
+> 今天出去买菜花了 5000 元。
 
-錯誤：
+错误：
 
-> 今天出去買菜花了 5000元。
+> 今天出去买菜花了 5000元。
 > 
-> 今天出去買菜花了5000元。
+> 今天出去买菜花了5000元。
 
-### 數字與單位之間需要增加空格
+### 数字与单位之间需要增加空格
 
-正確：
+正确：
 
-> 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
+> 我家的光纤入屋宽频有 10 Gbps，SSD 一共有 20 TB
 
-錯誤：
+错误：
 
-> 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
+> 我家的光纤入屋宽频有 10Gbps，SSD 一共有 20TB
 
 例外：度／百分比與數字之間不需要增加空格：
 
