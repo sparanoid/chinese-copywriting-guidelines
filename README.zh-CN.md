@@ -123,43 +123,43 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 正确：
 
-> 海！你知道嘛？今天前台的小妹跟我说「喵」了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说「喵」了哎！
 > 
 > 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
 
 错误：
 
-> 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
+> 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎！
 > 
-> 嗨!你知道嘛?今天前台的小妹跟我說"喵"了哎!
+> 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎！
 > 
-> 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
+> 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
 > 
-> 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
+> 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
 
-### 數字使用半形字符
+### 数字使用半角字符
 
-正確：
+正确：
 
-> 這件蛋糕只賣 1000 元。
+> 这件蛋糕只卖 1000 元。
 
-錯誤：
+错误：
 
-> 這件蛋糕只賣 １０００ 元。
+> 这件蛋糕只卖 １０００ 元。
 
-例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
+例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全形数字的。
 
-### 遇到完整的英文整句、特殊名詞，其內容使用半形標點
+### 遇到完整的英文整句、特殊名词，其内容使用半角标点
 
-正確：
+正确：
 
-> 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
+> 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」
 > 
-> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-錯誤：
+错误：
 
-> 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
+> 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」
 > 
 > 推薦你閱讀《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
