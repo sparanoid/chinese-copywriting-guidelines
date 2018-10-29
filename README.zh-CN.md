@@ -233,7 +233,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 「老师，『有条不紊』的『紊』是什么意思？」
 
-對比用法：
+对比用法：
 
 > “老师，‘有条不紊’的‘紊’是什么意思？”
 
@@ -252,24 +252,24 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
 
-## 誰在這樣做？
+## 谁在这样做？
 
-| 網站                                              | 文案  | UGC  |
-| ----------------------------------------------- | --- | ---- |
-| [Apple 中國](http://www.apple.com/cn/)            | Yes | N/A  |
-| [Apple 香港](http://www.apple.com/hk/)            | Yes | N/A  |
-| [Apple 台灣](http://www.apple.com/tw/)            | Yes | N/A  |
-| [Microsoft 中國](http://www.microsoft.com/zh-cn/) | Yes | N/A  |
-| [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A  |
-| [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A  |
-| [LeanCloud](https://leancloud.cn/)              | Yes | N/A  |
-| [V2EX](https://www.v2ex.com/)                   | Yes | Yes  |
-| [Apple4us](http://apple4us.com/)                | Yes | N/A  |
-| [Ruby China](https://ruby-china.org/)           | Yes | 標題達成 |
-| [PHPHub](https://phphub.org/)                   | Yes | 標題達成 |
-| [少數派](http://sspai.com/)                        | Yes | N/A  |
+| 网站                                              | 文案 | UGC  |
+| ----------------------------------------------- | -- | ---- |
+| [Apple 中国](http://www.apple.com/cn/)            | 是  | N/A  |
+| [Apple 香港](http://www.apple.com/hk/)            | 是  | N/A  |
+| [Apple 台湾](http://www.apple.com/tw/)            | 是  | N/A  |
+| [Microsoft 中国](http://www.microsoft.com/zh-cn/) | 是  | N/A  |
+| [Microsoft 香港](http://www.microsoft.com/zh-hk/) | 是  | N/A  |
+| [Microsoft 台湾](http://www.microsoft.com/zh-tw/) | 是  | N/A  |
+| [LeanCloud](https://leancloud.cn/)              | 是  | N/A  |
+| [V2EX](https://www.v2ex.com/)                   | 是  | 是    |
+| [Apple4us](http://apple4us.com/)                | 是  | N/A  |
+| [Ruby China](https://ruby-china.org/)           | 是  | 标题达成 |
+| [PHPHub](https://phphub.org/)                   | 是  | 标题达成 |
+| [少数派](http://sspai.com/)                        | 是  | N/A  |
 
-## 參考文獻
+## 参考文献
 
 - [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
@@ -277,6 +277,6 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
 - [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
-- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
-- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
-- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+- [全形和半形 - 维基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
+- [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
