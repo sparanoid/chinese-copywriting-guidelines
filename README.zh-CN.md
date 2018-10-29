@@ -161,73 +161,73 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」
 > 
-> 推薦你閱讀《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
-## 名詞
+## 名词
 
-### 專有名詞使用正確的大小寫
+### 专有名词使用正确的大小写
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
+大小写相关用法原属于英文书写范畴，不属于本 wiki 讨论内容，在这里只对部分易错用法进行简述。
 
-正確：
+正确：
 
-> 使用 GitHub 登錄
+> 使用 GitHub 登录
 > 
-> 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
+> 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-錯誤：
+错误：
 
-> 使用 github 登錄
+> 使用 github 登录
 > 
-> 使用 GITHUB 登錄
+> 使用 GITHUB 登录
 > 
-> 使用 Github 登錄
+> 使用 Github 登录
 > 
-> 使用 gitHub 登錄
+> 使用 gitHub 登录
 > 
-> 使用 gｲんĤЦ8 登錄
+> 使用 gｲんĤЦ8 登录
 > 
-> 我們的客戶有 github、foursquare、microsoft corporation、google、facebook, inc.。
+> 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
 > 
-> 我們的客戶有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
+> 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
 > 
-> 我們的客戶有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
+> 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
 > 
-> 我們的客戶有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
+> 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 > 
-> 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
+> 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
+注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标淮的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
 
-### 不要使用不地道的縮寫
+### 不要使用不地道的缩写
 
-正確：
+正确：
 
 > 我们需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端开发者。
 
-錯誤：
+错误：
 
-> 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
+> 我们需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
-## 爭議
+## 争议
 
-以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
+以下用法略带有个人色彩，即：无论是否遵循下述规则，从语法的角度来讲都是**正确**的。
 
-### 鏈接之間增加空格
+### 链接之间增加空格
 
 用法：
 
 > 请 [提交一个 issue](#) 并分配给相关同事。
 > 
-> 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
+> 访问我们网站的最新动态，请 [点击这裡](#) 进行订阅！
 
-對比用法：
+对比用法：
 
-> 请[提交一个 issue](#) 并分配给相关同事。
+> 请[提交一个 issue](#)并分配给相关同事。
 > 
-> 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
+> 访问我们网站的最新动态，请[点击这裡](#)进行订阅！
 
-### 簡體中文使用直角引號
+### 简体中文使用直角引号
 
 用法：
 
