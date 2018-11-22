@@ -247,6 +247,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
+[jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP (Laravel)
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
 [jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
