@@ -251,6 +251,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing)                                                 | Node.js (Grunt) |
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
+| [studygolang/autocorrect](https://github.com/studygolang/autocorrect)                                                           | Go              |
 
 ## 誰在這樣做？
 
