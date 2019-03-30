@@ -251,6 +251,7 @@ compared with:
 | [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing)                                                 | Node.js (Grunt) |
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
+| [studygolang/autocorrect](https://github.com/studygolang/autocorrect)                                                           | Go              |
 
 ## Examples of “Who is doing this?”
 
