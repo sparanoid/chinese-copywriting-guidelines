@@ -45,11 +45,11 @@ Exceptions: For product and brand names, please refer to the writing format of t
 
 ### Place one space before/after numbers
 
-正確：
+Good:
 
 > 今天出去買菜花了 5000 元。
 
-錯誤：
+Bad:
 
 > 今天出去買菜花了 5000元。
 > 
@@ -57,23 +57,23 @@ Exceptions: For product and brand names, please refer to the writing format of t
 
 ### Place one space between numbers and units
 
-正確：
+Good:
 
 > 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
 
-錯誤：
+Bad:
 
 > 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
 Exceptions: There should not be any spacing between numbers and degrees/percentages.
 
-正確：
+Good:
 
 > 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-錯誤：
+Bad:
 
 > 今天是 233 ° 的高溫。
 > 
@@ -81,11 +81,11 @@ Exceptions: There should not be any spacing between numbers and degrees/percenta
 
 ### No additional spaces before/after punctuation in fullwidth form
 
-正確：
+Good:
 
 > 剛剛買了一部 iPhone，好開心！
 
-錯誤：
+Bad:
 
 > 剛剛買了一部 iPhone ，好開心！
 > 
@@ -99,13 +99,13 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ### Avoid duplicate punctuation
 
-正確：
+Good:
 
 > 德國隊竟然戰勝了巴西隊！
 > 
 > 她竟然對你說「喵」？！
 
-錯誤：
+Bad:
 
 > 德國隊竟然戰勝了巴西隊！！
 > 
@@ -121,13 +121,13 @@ If you’re not familiar with fullwidth and halfwidth forms please refer to [Hal
 
 ### Use punctuation in fullwidth form
 
-正確：
+Good:
 
 > 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
 > 
 > 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
-錯誤：
+Bad:
 
 > 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
 > 
@@ -139,11 +139,11 @@ If you’re not familiar with fullwidth and halfwidth forms please refer to [Hal
 
 ### Use numbers in halfwidth form
 
-正確：
+Good:
 
 > 這件蛋糕只賣 1000 元。
 
-錯誤：
+Bad:
 
 > 這件蛋糕只賣 １０００ 元。
 
@@ -151,13 +151,13 @@ Exceptions: fullwidth numbers are acceptable for better visual alignment in grap
 
 ### Use punctuation in halfwidth form for English sentences
 
-正確：
+Good:
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 > 
 > 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-錯誤：
+Bad:
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 > 
@@ -169,13 +169,13 @@ Exceptions: fullwidth numbers are acceptable for better visual alignment in grap
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-正確：
+Good:
 
 > 使用 GitHub 登錄
 > 
 > 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-錯誤：
+Bad:
 
 > 使用 github 登錄
 > 
@@ -201,11 +201,11 @@ Exceptions: fullwidth numbers are acceptable for better visual alignment in grap
 
 ### Avoid jargons
 
-正確：
+Good:
 
 > 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
-錯誤：
+Bad:
 
 > 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
 
