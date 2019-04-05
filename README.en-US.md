@@ -9,7 +9,7 @@ Other languages:
 - [English](README.en-US.md)
 - [Chinese Traditional](README.md)
 - [Chinese Simplifed](README.zh-CN.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
+- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines) (External Link)
 
 * * *
 
@@ -255,20 +255,20 @@ compared with:
 
 ## Examples of “Who is doing this?”
 
-| 網站                                              | 文案  | UGC  |
-| ----------------------------------------------- | --- | ---- |
-| [Apple 中國](http://www.apple.com/cn/)            | Yes | N/A  |
-| [Apple 香港](http://www.apple.com/hk/)            | Yes | N/A  |
-| [Apple 台灣](http://www.apple.com/tw/)            | Yes | N/A  |
-| [Microsoft 中國](http://www.microsoft.com/zh-cn/) | Yes | N/A  |
-| [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A  |
-| [Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A  |
-| [LeanCloud](https://leancloud.cn/)              | Yes | N/A  |
-| [V2EX](https://www.v2ex.com/)                   | Yes | Yes  |
-| [Apple4us](http://apple4us.com/)                | Yes | N/A  |
-| [Ruby China](https://ruby-china.org/)           | Yes | 標題達成 |
-| [PHPHub](https://phphub.org/)                   | Yes | 標題達成 |
-| [少數派](http://sspai.com/)                        | Yes | N/A  |
+| Website                                                | Copywriting | UGC         |
+| ------------------------------------------------------ | ----------- | ----------- |
+| [Apple China](http://www.apple.com/cn/)                | Yes         | N/A         |
+| [Apple Hong Kong](http://www.apple.com/hk/)            | Yes         | N/A         |
+| [Apple Taiwan](http://www.apple.com/tw/)               | Yes         | N/A         |
+| [Microsoft China](http://www.microsoft.com/zh-cn/)     | Yes         | N/A         |
+| [Microsoft Hong Kong](http://www.microsoft.com/zh-hk/) | Yes         | N/A         |
+| [Microsoft Taiwan](http://www.microsoft.com/zh-tw/)    | Yes         | N/A         |
+| [LeanCloud](https://leancloud.cn/)                     | Yes         | N/A         |
+| [V2EX](https://www.v2ex.com/)                          | Yes         | Yes         |
+| [Apple4us](http://apple4us.com/)                       | Yes         | N/A         |
+| [Ruby China](https://ruby-china.org/)                  | Yes         | Titles only |
+| [PHPHub](https://phphub.org/)                          | Yes         | Titles only |
+| [少數派](http://sspai.com/)                               | Yes         | N/A         |
 
 ## References
 
