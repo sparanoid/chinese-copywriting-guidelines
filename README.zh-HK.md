@@ -39,7 +39,7 @@ Other languages:
 
 完整的正確用法：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
 
 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
@@ -199,15 +199,15 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
-### 不要使用不地道的縮寫
+### 不要使用不道地的縮寫
 
 正確：
 
-> 我們需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
+> 我們需要一位熟悉 JavaScript、HTML5，至少理解一種框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
 錯誤：
 
-> 我們需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
+> 我們需要一位熟悉 Js、h5，至少理解一種框架（如 backbone、angular、RJS 等）的 FED。
 
 ## 爭議
 
@@ -217,13 +217,13 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 用法：
 
-> 请 [提交一个 issue](#) 并分配给相关同事。
+> 請 [提交一个 issue](#) 並分配给相關同事。
 > 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
 對比用法：
 
-> 请[提交一个 issue](#) 并分配给相关同事。
+> 請[提交一个 issue](#) 並分配给相關同事。
 > 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
@@ -231,11 +231,11 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 用法：
 
-> 「老师，『有条不紊』的『紊』是什么意思？」
+> 「老師，『有條不紊』的『紊』是什麼意思？」
 
 對比用法：
 
-> “老师，‘有条不紊’的‘紊’是什么意思？”
+> “老師，‘有條不紊’的‘紊’是什麼意思？”
 
 ## 工具
 
