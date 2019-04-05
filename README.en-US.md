@@ -199,7 +199,7 @@ Bad:
 
 注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
-### 不要使用不道地的縮寫
+### Avoid jargons
 
 Good:
 
