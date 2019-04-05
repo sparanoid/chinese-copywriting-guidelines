@@ -42,7 +42,7 @@ Other languages:
 
 完整的正確用法：
 
-> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每個 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
 
 例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
