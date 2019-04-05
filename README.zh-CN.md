@@ -39,7 +39,7 @@
 
 完整的正确用法：
 
-> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每個 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
 
 例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
 
@@ -199,7 +199,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标淮的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
 
-### 不要使用不道地的縮寫
+### 不要使用不地道的缩写
 
 正确：
 
