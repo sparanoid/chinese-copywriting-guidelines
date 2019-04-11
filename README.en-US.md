@@ -1,6 +1,6 @@
 # Chinese Copywriting Guidelines
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines) [![Greenkeeper Badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![使用 Almace Scaffolding 构建](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines) [![Greenkeeper Badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/) [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies) [![使用 Almace Scaffolding 构建](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/note/chinese-copywriting-guidelines/)
 
 Chinese copywriting guidelines for better written communication.
 
@@ -93,7 +93,7 @@ Bad:
 
 ### `text-spacing` to the rescue?
 
-[`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) and [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) provided by CSS Text Module Level and Microsoft can specify the autospacing and narrow space width adjustment of text. However it's not popular, and on other platforms such as OS X and iOS we can not use this feature. So it's better for you to keep up the habit.
+CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
 ## Punctuation
 
@@ -117,7 +117,7 @@ Bad:
 
 ## Fullwidth and halfwidth
 
-If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
+不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### Use punctuation in fullwidth form
 
@@ -255,29 +255,29 @@ compared with:
 
 ## Examples of “Who is doing this?”
 
-| Website                                                | Copywriting | UGC         |
-| ------------------------------------------------------ | ----------- | ----------- |
-| [Apple China](http://www.apple.com/cn/)                | Yes         | N/A         |
-| [Apple Hong Kong](http://www.apple.com/hk/)            | Yes         | N/A         |
-| [Apple Taiwan](http://www.apple.com/tw/)               | Yes         | N/A         |
-| [Microsoft China](http://www.microsoft.com/zh-cn/)     | Yes         | N/A         |
-| [Microsoft Hong Kong](http://www.microsoft.com/zh-hk/) | Yes         | N/A         |
-| [Microsoft Taiwan](http://www.microsoft.com/zh-tw/)    | Yes         | N/A         |
-| [LeanCloud](https://leancloud.cn/)                     | Yes         | N/A         |
-| [V2EX](https://www.v2ex.com/)                          | Yes         | Yes         |
-| [Apple4us](http://apple4us.com/)                       | Yes         | N/A         |
-| [Ruby China](https://ruby-china.org/)                  | Yes         | Titles only |
-| [PHPHub](https://phphub.org/)                          | Yes         | Titles only |
-| [少數派](http://sspai.com/)                               | Yes         | N/A         |
+| Website                                                 | Copywriting | UGC         |
+| ------------------------------------------------------- | ----------- | ----------- |
+| [Apple China](https://www.apple.com/cn/)                | Yes         | N/A         |
+| [Apple Hong Kong](https://www.apple.com/hk/)            | Yes         | N/A         |
+| [Apple Taiwan](https://www.apple.com/tw/)               | Yes         | N/A         |
+| [Microsoft China](https://www.microsoft.com/zh-cn/)     | Yes         | N/A         |
+| [Microsoft Hong Kong](https://www.microsoft.com/zh-hk/) | Yes         | N/A         |
+| [Microsoft Taiwan](https://www.microsoft.com/zh-tw/)    | Yes         | N/A         |
+| [LeanCloud](https://leancloud.cn/)                      | Yes         | N/A         |
+| [V2EX](https://www.v2ex.com/)                           | Yes         | Yes         |
+| [Apple4us](https://apple4us.com/)                       | Yes         | N/A         |
+| [Ruby China](https://ruby-china.org/)                   | Yes         | Titles only |
+| [PHPHub](https://phphub.org/)                           | Yes         | Titles only |
+| [少數派](https://sspai.com/)                               | Yes         | N/A         |
 
 ## References
 
-- [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
-- [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
-- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/words/punctuation)
+- [Guidelines for Using Capital Letters - ThoughtCo.](https://www.thoughtco.com/guidelines-for-using-capital-letters-1691724)
+- [Letter case - Wikipedia](https://en.wikipedia.org/wiki/Letter_case)
+- [Punctuation - Oxford Dictionaries](https://en.oxforddictionaries.com/grammar/punctuation)
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
-- [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
+- [How to Use English Punctuation Correctly - wikiHow](https://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
-- [全形和半形 - 維基百科](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
-- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
-- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+- [全形和半形 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [引號 - 維基百科](https://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
+- [疑問驚嘆號 - 維基百科](https://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
