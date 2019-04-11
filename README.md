@@ -3,7 +3,7 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines)
 [![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/)
 [![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
-[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
+[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/note/chinese-copywriting-guidelines/)
 
 統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
@@ -96,7 +96,7 @@ Other languages:
 
 ### `text-spacing` to the rescue?
 
-CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
+CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
 ## 標點符號
 
@@ -120,7 +120,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ## 全形和半形
 
-不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### 使用全形中文標點
 
@@ -260,27 +260,27 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 網站 | 文案 | UGC
 --- | --- | ---
-[Apple 中國](http://www.apple.com/cn/) | Yes | N/A
-[Apple 香港](http://www.apple.com/hk/) | Yes | N/A
-[Apple 台灣](http://www.apple.com/tw/) | Yes | N/A
-[Microsoft 中國](http://www.microsoft.com/zh-cn/) | Yes | N/A
-[Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
-[Microsoft 台灣](http://www.microsoft.com/zh-tw/) | Yes | N/A
+[Apple 中國](https://www.apple.com/cn/) | Yes | N/A
+[Apple 香港](https://www.apple.com/hk/) | Yes | N/A
+[Apple 台灣](https://www.apple.com/tw/) | Yes | N/A
+[Microsoft 中國](https://www.microsoft.com/zh-cn/) | Yes | N/A
+[Microsoft 香港](https://www.microsoft.com/zh-hk/) | Yes | N/A
+[Microsoft 台灣](https://www.microsoft.com/zh-tw/) | Yes | N/A
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
 [V2EX](https://www.v2ex.com/) | Yes | Yes
-[Apple4us](http://apple4us.com/) | Yes | N/A
+[Apple4us](https://apple4us.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | 標題達成
 [PHPHub](https://phphub.org/) | Yes | 標題達成
-[少數派](http://sspai.com/) | Yes | N/A
+[少數派](https://sspai.com/) | Yes | N/A
 
 ## 參考文獻
 
-- [Guidelines for Using Capital Letters - About.com](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
-- [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
-- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/words/punctuation)
+- [Guidelines for Using Capital Letters - ThoughtCo.](https://www.thoughtco.com/guidelines-for-using-capital-letters-1691724)
+- [Letter case - Wikipedia](https://en.wikipedia.org/wiki/Letter_case)
+- [Punctuation - Oxford Dictionaries](https://en.oxforddictionaries.com/grammar/punctuation)
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
-- [How to Use English Punctuation Correctly - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
+- [How to Use English Punctuation Correctly - wikiHow](https://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
-- [全形和半形 - 維基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
-- [引號 - 維基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
-- [疑問驚嘆號 - 維基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+- [全形和半形 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+- [引號 - 維基百科](https://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
+- [疑問驚嘆號 - 維基百科](https://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
