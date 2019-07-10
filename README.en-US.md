@@ -8,8 +8,8 @@ Other languages:
 
 - [English](README.en-US.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplifed](README.zh-CN.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines) (External Link)
+- [Chinese Simplified](README.zh-CN.md)
+- [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 * * *
 
@@ -93,7 +93,7 @@ Bad:
 
 ### `text-spacing` to the rescue?
 
-CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
+[`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) and [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) provided by CSS Text Module Level and Microsoft can specify the autospacing and narrow space width adjustment of text. However it's not popular, and on other platforms such as OS X and iOS we can not use this feature. So it's better for you to keep up the habit.
 
 ## Punctuation
 
@@ -117,7 +117,7 @@ Bad:
 
 ## Fullwidth and halfwidth
 
-不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
 
 ### Use punctuation in fullwidth form
 
