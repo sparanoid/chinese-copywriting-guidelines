@@ -11,8 +11,8 @@ Other languages:
 
 - [English](README.en-US.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplifed](README.zh-CN.md)
-- [Chinese Simplifed](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
+- [Chinese Simplified](README.zh-CN.md)
+- [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 -----
 
