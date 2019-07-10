@@ -8,8 +8,8 @@
 
 - [英语](README.en-US.md)
 - [繁体中文](README.md)
-- [简体中文](README.zh-CN.md)
-- [简体中文](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
+- [Chinese Simplified](README.zh-CN.md)
+- [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 * * *
 
