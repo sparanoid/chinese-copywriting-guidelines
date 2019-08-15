@@ -269,6 +269,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [Ruby China](https://ruby-china.org/)            | Yes | 標題達成 |
 | [PHPHub](https://phphub.org/)                    | Yes | 標題達成 |
 | [少數派](https://sspai.com/)                        | Yes | N/A  |
+| [力扣 LeetCode](https://leetcode-cn.com/)           | Yes | Yes  |
 
 ## 參考文獻
 
