@@ -173,7 +173,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 使用 GitHub 登录
 > 
-> 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc。
+> 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook，Inc。
 
 错误：
 
