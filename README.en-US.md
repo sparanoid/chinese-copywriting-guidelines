@@ -269,6 +269,7 @@ compared with:
 | [Ruby China](https://ruby-china.org/)                   | Yes         | Titles only |
 | [PHPHub](https://phphub.org/)                           | Yes         | Titles only |
 | [少數派](https://sspai.com/)                               | Yes         | N/A         |
+| [黑客派](https://hacpai.com/)                    | Yes  | Yes    |
 
 ## References
 
