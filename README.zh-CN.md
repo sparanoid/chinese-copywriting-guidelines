@@ -147,19 +147,19 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 这个蛋糕只卖 １０００ 元。
 
-例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全形数字的。
+例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全角数字的。
 
 ### 遇到完整的英文整句、特殊名词，其内容使用半角标点
 
 正确：
 
-> 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」
+> 乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」
 > 
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
 错误：
 
-> 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」
+> 乔布斯那句话是怎么说的？「Stay hungry，stay foolish。」
 > 
 > 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
