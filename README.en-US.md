@@ -252,6 +252,7 @@ compared with:
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
 | [studygolang/autocorrect](https://github.com/studygolang/autocorrect)                                                           | Go              |
+| [n0vad3v/Tekorret](https://github.com/n0vad3v/Tekorrect)                                                                        | Python          |
 
 ## Examples of “Who is doing this?”
 
