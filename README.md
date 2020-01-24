@@ -1,4 +1,4 @@
-# 中文文案排版指北
+# 中文文案排版指南
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines)
 [![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/chinese-copywriting-guidelines.svg)](https://greenkeeper.io/)
@@ -216,7 +216,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-### 鏈接之間增加空格
+### 超連結之間增加空格
 
 用法：
 
