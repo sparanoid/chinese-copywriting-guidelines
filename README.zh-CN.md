@@ -223,7 +223,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 对比用法：
 
-> 请[提交一个 issue](#)并分配给相关同事。
+> 请[提交一个 issue](#) 并分配给相关同事。
 > 
 > 访问我们网站的最新动态，请[点击这里](#)进行订阅！
 
