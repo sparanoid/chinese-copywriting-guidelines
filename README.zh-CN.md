@@ -155,7 +155,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」
 > 
-> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你阅读 *Hackers & Painters: Big Ideas from the Computer Age*，非常地有趣。
 
 错误：
 
