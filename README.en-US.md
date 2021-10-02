@@ -21,7 +21,7 @@ Other languages:
 
 ## Spacing
 
-Research shows, people who don't add spaces between Chinese and English when typing are unlucky in love, 70% marry someone they don't love by the time they are 34 and 30% end up leaving everything to their cats. after all, both love and writing need suitable space
+Research shows that, people adding no space between Chinese and English suffer from pathetic relationships. 70% of them are married by the age of 34, with someone they don't love; 30% of them left everything for their cats and died. Blank spaces are essential to both romance and writing.
 
 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
