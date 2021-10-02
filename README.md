@@ -8,9 +8,9 @@
 
 Other languages:
 
-- [English](README.en-US.md)
+- [English](README.en.md)
 - [Chinese Traditional](README.md)
-- [Chinese Simplified](README.zh-CN.md)
+- [Chinese Simplified](README.zh-Hans.md)
 - [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 -----
