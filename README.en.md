@@ -15,12 +15,6 @@ Other languages:
 
 * * *
 
-## Table of Contents
-
-{:.no_toc}
-
-- TOC {:toc}
-
 ## Spacing
 
 > Research shows that, people adding no space between Chinese and English suffer from pathetic relationships. 70% of them are married by the age of 34, with someone they don't love; 30% of them left everything for their cats and died. Blank spaces are essential to both romance and writing.
