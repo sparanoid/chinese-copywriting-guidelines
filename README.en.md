@@ -119,7 +119,7 @@ Bad:
 
 ## Fullwidth and halfwidth
 
-If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
+If you’re not familiar with fullwidth and halfwidth forms please refer to article [Halfwidth and fullwidth](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms) on Wikipedia.
 
 ### Use punctuation in fullwidth form
 
