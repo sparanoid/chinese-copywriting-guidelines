@@ -241,41 +241,41 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ## 工具
 
-| 仓库                                                                                                                              | 语言              |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
-| [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
-| [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)                                                               | Ruby            |
-| [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect)                                                                 | Rust, WASM, CLI |
-| [huacnlee/go-auto-correct](https://github.com/huacnlee/go-auto-correct)                                                         | Go              |
-| [sparanoid/space-lover](https://github.com/sparanoid/space-lover)                                                               | PHP (WordPress) |
-| [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct)                                                                 | PHP             |
-| [jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting)                                                     | PHP             |
-| [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)                                                                           | Vim             |
-| [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing)                                                 | Node.js (Grunt) |
-| [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
-| [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
-| [studygolang/autocorrect](https://github.com/studygolang/autocorrect)                                                           | Go              |
-| [n0vad3v/Tekorret](https://github.com/n0vad3v/Tekorrect)                                                                        | Python          |
-| [VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct)                    | VS Code Extension |
+仓库 | 语言
+--- | ---
+[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
+[huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
+[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
+[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) | Rust, WASM, CLI
+[huacnlee/go-auto-correct](https://github.com/huacnlee/go-auto-correct) | Go
+[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
+[nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
+[jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
+[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
+[sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
+[hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
+[hustcc/hint](https://github.com/hustcc/hint) | Python
+[studygolang/autocorrect](https://github.com/studygolang/autocorrect) | Go
+[n0vad3v/Tekorret](https://github.com/n0vad3v/Tekorrect) | Python
+[VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct) | VS Code Extension
 
 ## 谁在这样做？
 
-| 网站                                               | 文案 | UGC  |
-| ------------------------------------------------ | -- | ---- |
-| [Apple 中国](https://www.apple.com/cn/)            | 是  | N/A  |
-| [Apple 香港](https://www.apple.com/hk/)            | 是  | N/A  |
-| [Apple 台湾](https://www.apple.com/tw/)            | 是  | N/A  |
-| [Microsoft 中国](https://www.microsoft.com/zh-cn/) | 是  | N/A  |
-| [Microsoft 香港](https://www.microsoft.com/zh-hk/) | 是  | N/A  |
-| [Microsoft 台湾](https://www.microsoft.com/zh-tw/) | 是  | N/A  |
-| [LeanCloud](https://leancloud.cn/)               | 是  | N/A  |
-| [V2EX](https://www.v2ex.com/)                    | 是  | 是    |
-| [Apple4us](https://apple4us.com/)                | 是  | N/A  |
-| [Ruby China](https://ruby-china.org/)            | 是  | 是   |
-| [PHPHub](https://phphub.org/)                    | 是  | 标题达成 |
-| [少数派](https://sspai.com/)                        | 是  | N/A  |
-| [力扣 LeetCode](https://leetcode-cn.com/)          | 是  | 是    |
+网站 | 文案 | UGC
+--- | --- | ---
+[Apple 中国](https://www.apple.com/cn/) | 是 | N/A
+[Apple 香港](https://www.apple.com/hk/) | 是 | N/A
+[Apple 台湾](https://www.apple.com/tw/) | 是 | N/A
+[Microsoft 中国](https://www.microsoft.com/zh-cn/) | 是 | N/A
+[Microsoft 香港](https://www.microsoft.com/zh-hk/) | 是 | N/A
+[Microsoft 台湾](https://www.microsoft.com/zh-tw/) | 是 | N/A
+[LeanCloud](https://leancloud.cn/) | 是 | N/A
+[V2EX](https://www.v2ex.com/) | 是 | 是
+[Apple4us](https://apple4us.com/) | 是 | N/A
+[Ruby China](https://ruby-china.org/) | 是 | 是
+[PHPHub](https://phphub.org/) | 是 | 标题达成
+[少数派](https://sspai.com/) | 是 | N/A
+[力扣 LeetCode](https://leetcode-cn.com/) | 是 | 是
 
 ## 参考文献
 
