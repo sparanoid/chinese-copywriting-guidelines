@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sparanoid/chinese-copywriting-guidelines.git"
+    "url": "https://github.com/sparanoid/chinese-copywriting-guidelines.git"
   },
   "bugs": {
-    "url": "http://github.com/sparanoid/chinese-copywriting-guidelines/issues"
+    "url": "https://github.com/sparanoid/chinese-copywriting-guidelines/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -23,28 +23,12 @@
   ],
   "readmeFilename": "README.md",
   "devDependencies": {
-    "grunt": "^1.0.3",
-    "grunt-bump": "^0.8.0",
-    "grunt-conventional-changelog": "^6.1.0",
-    "grunt-npm": "0.0.2",
-    "matchdep": "^2.0.0"
   },
   "contributors": [
-    "greenkeeperio-bot <support@greenkeeper.io>",
-    "Zhuang Ma <chumpma@gmail.com>",
-    "Jason Lee <huacnlee@gmail.com>",
-    "Greenkeeper <support@greenkeeper.io>",
-    "greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>",
-    "huhuhang <huhuhang@users.noreply.github.com>",
-    "jxlwqq <jxlwqq@gmail.com>",
-    "pityonline <pityonline@gmail.com>",
-    "tzx <district10@users.noreply.github.com>",
-    "NauxLiu@users.noreply.github.com>",
-    "Charlie Jade <summer.alex07@gmail.com>",
-    "hotoo@users.noreply.github.com>",
-    "Elethom Hunter <elethomhunter@gmail.com>",
-    "Huei Tan <huei90@users.noreply.github.com>",
-    "Yang Li <idealhack@gmail.com>",
-    "ddanist <danx2ist@gmail.com>"
+    {
+      "name" : "You",
+      "email" : "you@example.com",
+      "url" : "https://github.com/sparanoid/chinese-copywriting-guidelines/graphs/contributors"
+    }
   ]
 }
