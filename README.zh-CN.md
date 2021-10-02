@@ -21,61 +21,61 @@
 
 ## 空格
 
-「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
-
-与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+> 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
+> 
+> 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### 中英文之间需要增加空格
 
-正确：
+正確：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。
+> 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
-错误：
+錯誤：
 
-> 在LeanCloud上，数据存储是围绕`AVObject`进行的。
+> 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
-> 在 LeanCloud上，数据存储是围绕`AVObject` 进行的。
+> 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-完整的正确用法：
+完整的正確用法：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每個 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
 
-例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
+例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
 ### 中文与数字之间需要增加空格
 
-正确：
+正確：
 
-> 今天出去买菜花了 5000 元。
+> 今天出去買菜花了 5000 元。
 
-错误：
+錯誤：
 
-> 今天出去买菜花了 5000元。
+> 今天出去買菜花了 5000元。
 > 
-> 今天出去买菜花了5000元。
+> 今天出去買菜花了5000元。
 
 ### 数字与单位之间需要增加空格
 
 正确：
 
-> 我家的光纤入屋宽带有 10 Gbps，SSD 一共有 20 TB
+> 我家的光纖入屋寬頻有 10 Gbps，SSD 一共有 20 TB。
 
 错误：
 
-> 我家的光纤入屋宽带有 10Gbps，SSD 一共有 20TB
+> 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
-例外：度 / 百分比与数字之间不需要增加空格：
+例外：度／百分比與數字之間不需要增加空格：
 
-正确：
+正確：
 
-> 今天是 233° 的高温。
+> 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-错误：
+錯誤：
 
-> 今天是 233 ° 的高温。
+> 今天是 233 ° 的高溫。
 > 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
@@ -83,159 +83,159 @@
 
 正确：
 
-> 刚刚买了一部 iPhone，好开心！
+> 剛剛買了一部 iPhone，好開心！
 
 错误：
 
-> 刚刚买了一部 iPhone ，好开心！
+> 剛剛買了一部 iPhone ，好開心！
 > 
-> 刚刚买了一部 iPhone， 好开心！
+> 剛剛買了一部 iPhone， 好開心！
 
 ### 用 `text-spacing` 来挽救？
 
-CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以实现自动为中英文之间增加空白。不过目前并未普及，另外在其他应用场景，例如 macOS、iOS、Windows 等用户介面目前并不存在这个特性，所以请继续保持随手加空格的习惯。
+CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
 ## 标点符号
 
 ### 不重复使用标点符号
 
-正确：
+正確：
 
-> 德国队竟然战胜了巴西队！
+> 德國隊竟然戰勝了巴西隊！
 > 
-> 她竟然对你说「喵」？！
+> 她竟然對你說「喵」？！
 
-错误：
+錯誤：
 
-> 德国队竟然战胜了巴西队！！
+> 德國隊竟然戰勝了巴西隊！！
 > 
-> 德国队竟然战胜了巴西队！！！！！！！！
+> 德國隊竟然戰勝了巴西隊！！！！！！！！
 > 
-> 她竟然对你说「喵」？？！！
+> 她竟然對你說「喵」？？！！
 > 
-> 她竟然对你说「喵」？！？！？？！！
+> 她竟然對你說「喵」？！？！？？！！
 
 ## 全角和半角
 
-不明白什么是全角（全形）与半角（半形）符号？请查看维基百科词条『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### 使用全角中文标点
 
-正确：
+正確：
 
-> 嗨！你知道嘛？今天前台的小妹跟我说「喵」了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
 > 
-> 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
+> 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
-错误：
+錯誤：
 
-> 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎！
+> 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
 > 
-> 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎！
+> 嗨!你知道嘛?今天前台的小妹跟我說"喵"了哎!
 > 
-> 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
+> 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
 > 
-> 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
+> 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
 ### 数字使用半角字符
 
 正确：
 
-> 这个蛋糕只卖 1000 元。
+> 這件蛋糕只賣 1000 元。
 
 错误：
 
-> 这个蛋糕只卖 １０００ 元。
+> 這件蛋糕只賣 １０００ 元。
 
-例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全形数字的。
+例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
 
 ### 遇到完整的英文整句、特殊名词，其内容使用半角标点
 
-正确：
+正確：
 
-> 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」
+> 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 > 
-> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-错误：
+錯誤：
 
-> 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」
+> 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 > 
-> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+> 推薦你閱讀《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
 ## 名词
 
 ### 专有名词使用正确的大小写
 
-大小写相关用法原属于英文书写范畴，不属于本 wiki 讨论内容，在这里只对部分易错用法进行简述。
+大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-正确：
+正確：
 
-> 使用 GitHub 登录
+> 使用 GitHub 登錄
 > 
-> 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
+> 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-错误：
+錯誤：
 
-> 使用 github 登录
+> 使用 github 登錄
 > 
-> 使用 GITHUB 登录
+> 使用 GITHUB 登錄
 > 
-> 使用 Github 登录
+> 使用 Github 登錄
 > 
-> 使用 gitHub 登录
+> 使用 gitHub 登錄
 > 
-> 使用 gｲんĤЦ8 登录
+> 使用 gｲんĤЦ8 登錄
 > 
-> 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
+> 我們的客戶有 github、foursquare、microsoft corporation、google、facebook, inc.。
 > 
-> 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
+> 我們的客戶有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
 > 
-> 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
+> 我們的客戶有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
 > 
-> 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
+> 我們的客戶有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 > 
-> 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
+> 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标淮的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
+注意：當網頁中需要配合整體視覺風格而出現全部大寫／小寫的情形，HTML 中請使用標準的大小寫規範進行書寫；並通過 `text-transform: uppercase;`／`text-transform: lowercase;` 對表現形式進行定義。
 
 ### 不要使用不地道的缩写
 
-正确：
+正確：
 
-> 我们需要一位熟悉 JavaScript、HTML5，至少理解一种框架（如 Backbone.js、AngularJS、React 等）的前端开发者。
+> 我們需要一位熟悉 JavaScript、HTML5，至少理解一種框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
-错误：
+錯誤：
 
-> 我们需要一位熟悉 Js、h5，至少理解一种框架（如 backbone、angular、RJS 等）的 FED。
+> 我們需要一位熟悉 Js、h5，至少理解一種框架（如 backbone、angular、RJS 等）的 FED。
 
 ## 争议
 
-以下用法略带有个人色彩，即：无论是否遵循下述规则，从语法的角度来讲都是**正确**的。
+以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
 ### 链接之间增加空格
 
 用法：
 
-> 请 [提交一个 issue](#) 并分配给相关同事。
+> 請 [提交一個 issue](#) 並分配给相關同事。
 > 
-> 访问我们网站的最新动态，请 [点击这里](#) 进行订阅！
+> 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
-对比用法：
+對比用法：
 
-> 请[提交一个 issue](#)并分配给相关同事。
+> 請[提交一個 issue](#) 並分配给相關同事。
 > 
-> 访问我们网站的最新动态，请[点击这里](#)进行订阅！
+> 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
 ### 简体中文使用直角引号
 
 用法：
 
-> 「老师，『有条不紊』的『紊』是什么意思？」
+> 「老師，『有條不紊』的『紊』是什麼意思？」
 
 对比用法：
 
-> “老师，‘有条不紊’的‘紊’是什么意思？”
+> “老師，‘有條不紊’的‘紊’是什麼意思？”
 
 ## 工具
 
