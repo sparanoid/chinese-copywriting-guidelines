@@ -247,6 +247,8 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
+[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) | Rust, WASM, CLI
+[huacnlee/go-auto-correct](https://github.com/huacnlee/go-auto-correct) | Go
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
 [jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
@@ -255,6 +257,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
 [hustcc/hint](https://github.com/hustcc/hint) | Python
 [studygolang/autocorrect](https://github.com/studygolang/autocorrect) | Go
+[VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct) | VS Code Extension
 
 ## 誰在這樣做？
 
@@ -269,7 +272,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
 [V2EX](https://www.v2ex.com/) | Yes | Yes
 [Apple4us](https://apple4us.com/) | Yes | N/A
-[Ruby China](https://ruby-china.org/) | Yes | 標題達成
+[Ruby China](https://ruby-china.org/) | Yes | Yes
 [PHPHub](https://phphub.org/) | Yes | 標題達成
 [少數派](https://sspai.com/) | Yes | N/A
 
