@@ -24,9 +24,9 @@ Other languages:
 
 ## 空格
 
-「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
-
-與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+> 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
+> 
+> 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### 中英文之間需要增加空格
 
@@ -216,17 +216,17 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
-### 鏈接之間增加空格
+### 超連結之間增加空格
 
 用法：
 
-> 請 [提交一个 issue](#) 並分配给相關同事。
+> 請 [提交一個 issue](#) 並分配给相關同事。
 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
 對比用法：
 
-> 請[提交一个 issue](#) 並分配给相關同事。
+> 請[提交一個 issue](#) 並分配给相關同事。
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
@@ -247,6 +247,8 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
+[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) | Rust, WASM, CLI
+[huacnlee/go-auto-correct](https://github.com/huacnlee/go-auto-correct) | Go
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
 [jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
@@ -255,6 +257,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
 [hustcc/hint](https://github.com/hustcc/hint) | Python
 [studygolang/autocorrect](https://github.com/studygolang/autocorrect) | Go
+[VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct) | VS Code Extension
 
 ## 誰在這樣做？
 
@@ -269,7 +272,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
 [V2EX](https://www.v2ex.com/) | Yes | Yes
 [Apple4us](https://apple4us.com/) | Yes | N/A
-[Ruby China](https://ruby-china.org/) | Yes | 標題達成
+[Ruby China](https://ruby-china.org/) | Yes | Yes
 [PHPHub](https://phphub.org/) | Yes | 標題達成
 [少數派](https://sspai.com/) | Yes | N/A
 
