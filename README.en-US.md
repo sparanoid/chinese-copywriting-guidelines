@@ -21,35 +21,35 @@ Other languages:
 
 ## Spacing
 
-Research shows, people who don't add spaces between Chinese and English when typing are unlucky in love, 70% marry someone they don't love by the time they are 34 and 30% end up leaving everything to their cats. after all, both love and writing need suitable space
-
-與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+> 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
+> 
+> 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### Place one space before/after English words
 
-Good:
+正確：
 
 > 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
 
-Bad:
+錯誤：
 
 > 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
 > 
 > 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
 
-An example of complete and correct usage:
+完整的正確用法：
 
 > 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。每個 `AVObject` 都包含了與 JSON 兼容的 key-value 對應的數據。數據是 schema-free 的，你不需要在每個 `AVObject` 上提前指定存在哪些键，只要直接設定對應的 key-value 即可。
 
-Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
+例外：「豆瓣FM」等產品名詞，按照官方所定義的格式書寫。
 
 ### Place one space before/after numbers
 
-Good:
+正確：
 
 > 今天出去買菜花了 5000 元。
 
-Bad:
+錯誤：
 
 > 今天出去買菜花了 5000元。
 > 
@@ -65,15 +65,15 @@ Bad:
 
 > 我家的光纖入屋寬頻有 10Gbps，SSD 一共有 20TB。
 
-Exceptions: There should not be any spacing between numbers and degrees/percentages.
+例外：度／百分比與數字之間不需要增加空格：
 
-Good:
+正確：
 
 > 今天是 233° 的高溫。
 > 
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
-Bad:
+錯誤：
 
 > 今天是 233 ° 的高溫。
 > 
@@ -93,19 +93,19 @@ Bad:
 
 ### `text-spacing` to the rescue?
 
-[`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) and [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) provided by CSS Text Module Level and Microsoft can specify the autospacing and narrow space width adjustment of text. However it's not popular, and on other platforms such as OS X and iOS we can not use this feature. So it's better for you to keep up the habit.
+CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以實現自動為中英文之間增加空白。不過目前並未普及，另外在其他應用場景，例如 macOS、iOS、Windows 等用戶介面目前并不存在這個特性，所以請繼續保持隨手加空格的習慣。
 
 ## Punctuation
 
 ### Avoid duplicate punctuation
 
-Good:
+正確：
 
 > 德國隊竟然戰勝了巴西隊！
 > 
 > 她竟然對你說「喵」？！
 
-Bad:
+錯誤：
 
 > 德國隊竟然戰勝了巴西隊！！
 > 
@@ -117,17 +117,17 @@ Bad:
 
 ## Fullwidth and halfwidth
 
-If you’re not familiar with fullwidth and halfwidth forms please refer to [Halfwidth and fullwidth](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) forms on Wikipedia.
+不明白什麼是全形（全角）與半形（半角）符號？請查看維基百科詞條『[全形和半形](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### Use punctuation in fullwidth form
 
-Good:
+正確：
 
 > 嗨！你知道嘛？今天前台的小妹跟我說「喵」了哎！
 > 
 > 核磁共振成像（NMRI）是什麼原理都不知道？JFGI！
 
-Bad:
+錯誤：
 
 > 嗨! 你知道嘛? 今天前台的小妹跟我說 "喵" 了哎!
 > 
@@ -147,17 +147,17 @@ Bad:
 
 > 這件蛋糕只賣 １０００ 元。
 
-Exceptions: fullwidth numbers are acceptable for better visual alignment in graphic design.
+例外：在設計稿、宣傳海報中如出現極少量數字的情形時，為方便文字對齊，是可以使用全形數字的。
 
 ### Use punctuation in halfwidth form for English sentences
 
-Good:
+正確：
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 > 
 > 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-Bad:
+錯誤：
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry，stay foolish。」
 > 
@@ -169,13 +169,13 @@ Bad:
 
 大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
 
-Good:
+正確：
 
 > 使用 GitHub 登錄
 > 
 > 我們的客戶有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-Bad:
+錯誤：
 
 > 使用 github 登錄
 > 
@@ -201,29 +201,29 @@ Bad:
 
 ### Avoid jargons
 
-Good:
+正確：
 
 > 我們需要一位熟悉 JavaScript、HTML5，至少理解一種框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
 
-Bad:
+錯誤：
 
 > 我們需要一位熟悉 Js、h5，至少理解一種框架（如 backbone、angular、RJS 等）的 FED。
 
 ## Dispute
 
-The following usages comprise of personal characteristics. As such, from the perspective of copywriting guidelines, they are **still correct** regardless of whether they comply with the following rules.
+以下用法略帶有個人色彩，即：無論是否遵循下述規則，從語法的角度來講都是**正確**的。
 
 ### Add extra spaces before/after links
 
-Usage:
+用法：
 
-> 請 [提交一个 issue](#) 並分配给相關同事。
+> 請 [提交一個 issue](#) 並分配给相關同事。
 > 
 > 訪問我們網站的最新動態，請 [點擊這裡](#) 進行訂閱！
 
-compared with:
+對比用法：
 
-> 請[提交一个 issue](#) 並分配给相關同事。
+> 請[提交一個 issue](#) 並分配给相關同事。
 > 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
