@@ -1,6 +1,6 @@
 {
   "name": "chinese-copywriting-guidelines",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Chinese Copywriting Guidelines",
   "author": "Tunghsiao Liu",
   "homepage": "http://github.com/sparanoid/chinese-copywriting-guidelines",
@@ -23,8 +23,7 @@
     "guideline"
   ],
   "readmeFilename": "README.md",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "release-it": {
     "git": {
       "commitArgs": "-S",
@@ -41,9 +40,9 @@
   },
   "contributors": [
     {
-      "name" : "You",
-      "email" : "you@example.com",
-      "url" : "https://github.com/sparanoid/chinese-copywriting-guidelines/graphs/contributors"
+      "name": "You",
+      "email": "you@example.com",
+      "url": "https://github.com/sparanoid/chinese-copywriting-guidelines/graphs/contributors"
     }
   ]
 }
