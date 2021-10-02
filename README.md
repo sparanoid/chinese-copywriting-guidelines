@@ -205,11 +205,11 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 正確：
 
-> 我們需要一位熟悉 JavaScript、HTML5，至少理解一種框架（如 Backbone.js、AngularJS、React 等）的前端開發者。
+> 我們需要一位熟悉 TypeScript、HTML5，至少理解一種框架（如 React、Next.js）的前端開發者。
 
 錯誤：
 
-> 我們需要一位熟悉 Js、h5，至少理解一種框架（如 backbone、angular、RJS 等）的 FED。
+> 我們需要一位熟悉 Ts、h5，至少理解一種框架（如 RJS、nextjs）的 FED。
 
 ## 爭議
 
