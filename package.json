@@ -6,7 +6,8 @@
   "homepage": "http://github.com/sparanoid/chinese-copywriting-guidelines",
   "main": "README.md",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "release": "npx release-it"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,20 @@
   ],
   "readmeFilename": "README.md",
   "devDependencies": {
+  },
+  "release-it": {
+    "git": {
+      "commitArgs": "-S",
+      "commitMessage": "chore: release v${version}",
+      "tagArgs": "-s",
+      "tagAnnotation": "chore: release v${version}"
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "publish": false
+    }
   },
   "contributors": [
     {
