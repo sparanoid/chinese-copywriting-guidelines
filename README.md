@@ -230,7 +230,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 訪問我們網站的最新動態，請[點擊這裡](#)進行訂閱！
 
-### 繁體中文使用直角引號
+### 簡體中文使用直角引號
 
 用法：
 
