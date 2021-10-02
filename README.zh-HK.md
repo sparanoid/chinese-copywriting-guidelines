@@ -254,6 +254,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 | [hustcc/hint](https://github.com/hustcc/hint)                                                                                   | Python          |
 | [studygolang/autocorrect](https://github.com/studygolang/autocorrect)                                                           | Go              |
+| [n0vad3v/Tekorret](https://github.com/n0vad3v/Tekorrect)                                                                        | Python          |
 | [VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct)                    | VS Code Extension |
 
 ## 誰在這樣做？
