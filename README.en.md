@@ -25,13 +25,13 @@ Other languages:
 
 Good:
 
-> 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。
 
 Bad:
 
-> 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
+> 在LeanCloud上，數據儲存是圍繞`AVObject`進行的。
 >
-> 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
+> 在 LeanCloud上，數據儲存是圍繞`AVObject` 進行的。
 
 An example of complete and correct usage:
 
