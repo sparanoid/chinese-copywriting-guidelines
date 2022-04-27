@@ -37,12 +37,5 @@
     "npm": {
       "publish": false
     }
-  },
-  "contributors": [
-    {
-      "name": "You",
-      "email": "you@example.com",
-      "url": "https://github.com/sparanoid/chinese-copywriting-guidelines/graphs/contributors"
-    }
-  ]
+  }
 }
