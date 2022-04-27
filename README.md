@@ -266,7 +266,6 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [V2EX](https://www.v2ex.com/) | Yes | Yes
 [Apple4us](https://apple4us.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | Yes
-[PHPHub](https://phphub.org/) | Yes | 標題達成
 [少數派](https://sspai.com/) | Yes | N/A
 
 ## 參考文獻

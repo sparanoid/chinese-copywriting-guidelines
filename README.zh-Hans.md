@@ -263,9 +263,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [V2EX](https://www.v2ex.com/) | 是 | 是
 [Apple4us](https://apple4us.com/) | 是 | N/A
 [Ruby China](https://ruby-china.org/) | 是 | 是
-[PHPHub](https://phphub.org/) | 是 | 标题达成
 [少数派](https://sspai.com/) | 是 | N/A
-[力扣 LeetCode](https://leetcode-cn.com/) | 是 | 是
 
 ## 参考文献
 
