@@ -3,7 +3,7 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines)
 [![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/note/chinese-copywriting-guidelines/)
 
-統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
+統一中文文案、排版的相關用法，**降低團隊*成員之間的溝通成本，增強網站氣質。
 
 Other languages:
 
