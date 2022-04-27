@@ -263,7 +263,6 @@ Website | Copywriting | UGC
 [V2EX](https://www.v2ex.com/) | Yes | Yes
 [Apple4us](https://apple4us.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | Yes
-[PHPHub](https://phphub.org/) | Yes | Titles only
 [少數派](https://sspai.com/) | Yes | N/A
 
 ## References
