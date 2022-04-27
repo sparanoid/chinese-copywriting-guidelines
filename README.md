@@ -25,13 +25,13 @@ Other languages:
 
 正確：
 
-> 在 LeanCloud 上，數據存儲是圍繞 `AVObject` 進行的。
+> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。
 
 錯誤：
 
-> 在LeanCloud上，數據存儲是圍繞`AVObject`進行的。
+> 在LeanCloud上，數據儲存是圍繞`AVObject`進行的。
 
-> 在 LeanCloud上，數據存儲是圍繞`AVObject` 進行的。
+> 在 LeanCloud上，數據儲存是圍繞`AVObject` 進行的。
 
 完整的正確用法：
 
