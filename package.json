@@ -6,8 +6,18 @@
   "homepage": "http://github.com/sparanoid/chinese-copywriting-guidelines",
   "main": "README.md",
   "scripts": {
-    "test": "grunt",
+    "test": "remark .",
     "release": "npx release-it"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-consistent",
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        "space"
+      ]
+    ]
   },
   "repository": {
     "type": "git",
@@ -23,7 +33,12 @@
     "guideline"
   ],
   "readmeFilename": "README.md",
-  "devDependencies": {},
+  "devDependencies": {
+    "remark-cli": "^10.0.1",
+    "remark-lint-list-item-indent": "^3.1.1",
+    "remark-preset-lint-consistent": "^5.1.1",
+    "remark-preset-lint-recommended": "^6.1.2"
+  },
   "release-it": {
     "git": {
       "commitArgs": "-S",
