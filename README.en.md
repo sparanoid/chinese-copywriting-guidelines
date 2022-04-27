@@ -7,7 +7,6 @@ Other languages:
 - [English](README.en.md)
 - [Chinese Traditional](README.md)
 - [Chinese Simplified](README.zh-Hans.md)
-- [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines) (External Link)
 
 * * *
 
@@ -276,3 +275,9 @@ Website | Copywriting | UGC
 - [Halfwidth and fullwidth forms - Wikipedia](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 - [引號 - 維基百科](https://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [Interrobang - Wikipedia](https://en.wikipedia.org/wiki/Interrobang)
+
+## Forks
+
+The usage of forked projects may differ from this project.
+
+- [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)

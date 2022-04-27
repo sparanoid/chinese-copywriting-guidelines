@@ -7,7 +7,6 @@ Other languages:
 - [英语](README.en.md)
 - [繁体中文](README.md)
 - [简体中文](README.zh-Hans.md)
-- [简体中文](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
 
 * * *
 
@@ -276,3 +275,9 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 - [全形和半形 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引号 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑问惊叹号 - 维基百科](https://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+
+## Forks
+
+衍生项目的用法可能与本项目存在差异。
+
+- [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)

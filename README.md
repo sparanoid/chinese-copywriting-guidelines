@@ -10,7 +10,6 @@ Other languages:
 - [English](README.en.md)
 - [Chinese Traditional](README.md)
 - [Chinese Simplified](README.zh-Hans.md)
-- [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部連結）
 
 -----
 
@@ -279,3 +278,9 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 - [全形和半形 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引號 - 維基百科](https://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑問驚嘆號 - 維基百科](https://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+
+## Forks
+
+衍生專案的用法可能與本專案存在差異。
+
+- [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
