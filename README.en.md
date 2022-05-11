@@ -233,6 +233,7 @@ compared with:
 Repository | Language
 ---------- | --------
 [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
+[serkodev/vue-pangu](https://github.com/serkodev/vue-pangu) | Vue.js (Web Converter)
 [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) | Rust, WASM, CLI
