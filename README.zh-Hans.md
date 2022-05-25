@@ -94,7 +94,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 德国队竟然战胜了巴西队！
 >
-> 她竟然对你说「喵」？！
+> 她竟然对你说「喵」？
 
 错误：
 
