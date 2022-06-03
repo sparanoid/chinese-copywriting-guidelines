@@ -90,6 +90,8 @@ Bad:
 
 ### Avoid duplicate punctuation
 
+Although the punctuation usage of China mainland admits to duplicate the punctuations, the sentence may become unpleasing to the eye by doing that.
+
 Good:
 
 > 德國隊竟然戰勝了巴西隊！
