@@ -93,6 +93,8 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ### 不重複使用標點符號
 
+即使中國大陸的標點符號用法允許重複使用標點符號，但是這麼做會破壞句子的美觀性。
+
 正確：
 
 > 德國隊竟然戰勝了巴西隊！
