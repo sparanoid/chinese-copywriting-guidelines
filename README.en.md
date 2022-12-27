@@ -158,9 +158,9 @@ Bad:
 
 ## Nouns
 
-### 專有名詞使用正確的大小寫
+### Use proper upper/lower cases for specialized terms
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
+The relative usage of upper/lower cases belongs to the realm of English orthography, and it is out of the scope of this wiki. Only some common bad usages are hereby briefly discussed.
 
 Good:
 
