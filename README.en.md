@@ -158,9 +158,9 @@ Bad:
 
 ## Nouns
 
-### 專有名詞使用正確的大小寫
+### Capitalize properly
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本 wiki 討論內容，在這裡只對部分易錯用法進行簡述。
+Capitalization is a matter of English, which is beyond the scope of this wiki. Here we exemplify some typical scenarios.
 
 Good:
 
