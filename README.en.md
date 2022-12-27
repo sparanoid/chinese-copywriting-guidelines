@@ -158,7 +158,7 @@ Bad:
 
 ## Nouns
 
-### Use proper upper/lower cases for specialized terms
+### Capitalize properly
 
 Capitalization is a matter of English, which is beyond the scope of this wiki. Here we exemplify some typical scenarios.
 
