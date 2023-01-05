@@ -235,24 +235,31 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ## 工具
 
-倉庫 | 語言
---- | ---
-[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
-[serkodev/vue-pangu](https://github.com/serkodev/vue-pangu) | Vue.js (Web Converter)
-[huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
-[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
-[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) | Rust, WASM, CLI
-[huacnlee/go-auto-correct](https://github.com/huacnlee/go-auto-correct) | Go
-[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
-[nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
-[jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
-[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
-[sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
-[hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
-[hustcc/hint](https://github.com/hustcc/hint) | Python
-[studygolang/autocorrect](https://github.com/studygolang/autocorrect) | Go
-[n0vad3v/Tekorrect](https://github.com/n0vad3v/Tekorrect) | Python
-[VS Code - huacnlee.auto-correct](https://marketplace.visualstudio.com/items?itemName=huacnlee.auto-correct) | VS Code Extension
+倉庫 | 系列 | 語言
+--- | -- | ---
+[pangu.js](https://github.com/vinta/pangu.js) | pangu | JavaScript
+[pangu-go](https://github.com/vinta/pangu) | pangu | Go
+[pangu.java](https://github.com/vinta/pangu.java) | pangu | Java
+[pangu.py](https://github.com/vinta/pangu.py) | pangu | Python
+[pangu.rb](https://github.com/dlackty/pangu.rb) | pangu | Ruby
+[pangu.php](https://github.com/cchlorine/pangu.php) | pangu | PHP
+[pangu.vim](https://github.com/hotoo/pangu.vim) | pangu | Vim
+[vue-pangu](https://github.com/serkodev/vue-pangu) | pangu | Vue.js (Web Converter)
+[autocorrect](https://github.com/huacnlee/autocorrect) | autocorrect | Rust, WASM, CLI tool
+[autocorrect-node](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-node) | autocorrect | Node.js
+[autocorrect-py](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-py) | autocorrect | Python
+[autocorrect-rb](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-rb) | autocorrect | Ruby
+[autocorrect-java](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-java) | autocorrect | Java
+[autocorrect-go](https://github.com/longbridgeapp/autocorrect) | autocorrect | Go
+[autocorrect-php](https://github.com/NauxLiu/auto-correct) | autocorrect | PHP
+[autocorrect-vscode](https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect) | autocorrect | VS Code Extension
+[autocorrect-idea-plugin](https://plugins.jetbrains.com/plugin/20244-autocorrect) | autocorrect | Intellij Platform Plugin
+[jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | other | PHP
+[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | other | PHP (WordPress)
+[sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | other | Node.js (Grunt)
+[hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | other | Python
+[hustcc/hint](https://github.com/hustcc/hint) | other | Python
+[n0vad3v/Tekorrect](https://github.com/n0vad3v/Tekorrect) | other | Python
 
 ## 誰在這樣做？
 
