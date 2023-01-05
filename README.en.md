@@ -158,9 +158,9 @@ Bad:
 
 ## Nouns
 
-### Capitalize properly
+### Use proper upper/lower cases for specialized terms
 
-Capitalization is a matter of English, which is beyond the scope of this wiki. Here we exemplify some typical scenarios.
+The relative usage of upper/lower cases belongs to the realm of English orthography, and it is out of the scope of this wiki. Only some common bad usages are hereby briefly discussed.
 
 Good:
 
