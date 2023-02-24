@@ -190,7 +190,7 @@ Bad:
 >
 > 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-Attention: when the letters in a webpage need to be all upper/lower cases to match the overall visual style, please write the letters in the standard format; and define the display form by `text-transform: uppercase;`／`text-transform: lowercase;` if using HTML.
+Note that: for webpages, if the overall visual style requires the letters to be all upper-case or all lower-case, consider capitalizing the HTML code naturally, and rendering them with `text-transform: uppercase;`/`text-transform: lowercase;` commands.
 
 ### Avoid jargons
 
