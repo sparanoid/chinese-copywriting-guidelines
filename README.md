@@ -133,6 +133,8 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
+例外：中文句子內夾有英文書籍名、報刊名時，不應借用中文書名號，應以英文斜體表示。
+
 ### 數字使用半形字符
 
 正確：
@@ -151,7 +153,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 
-> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推薦你閱讀*Hackers & Painters: Big Ideas from the Computer Age*，非常地有趣。
 
 錯誤：
 
