@@ -244,6 +244,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [pangu.php](https://github.com/cchlorine/pangu.php) | pangu | PHP
 [pangu.vim](https://github.com/hotoo/pangu.vim) | pangu | Vim
 [vue-pangu](https://github.com/serkodev/vue-pangu) | pangu | Vue.js (Web Converter)
+[intellij-pangu](https://plugins.jetbrains.com/plugin/19665-pangu) | pangu | Intellij Platform Plugin
 [autocorrect](https://github.com/huacnlee/autocorrect) | autocorrect | Rust, WASM, CLI tool
 [autocorrect-node](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-node) | autocorrect | Node.js
 [autocorrect-py](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-py) | autocorrect | Python
