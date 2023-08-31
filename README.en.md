@@ -192,7 +192,7 @@ Bad:
 >
 > 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-Attention: When a webpage needs to conform to the overall visual style by displaying all uppercase/lowercase letters, please write those letters following standard case formatting in HTML; and define the appearance style via `text-transform: uppercase;`／`text-transform: lowercase;`.
+Attention: When a webpage needs to conform to the overall visual style by displaying all uppercase/lowercase letters, please, in HTML, input those letters following standard case formatting; and define the appearance style via `text-transform: uppercase;`／`text-transform: lowercase;`.
 
 ### Avoid jargons
 
