@@ -190,7 +190,7 @@ Bad:
 >
 > 我們的客戶有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 >
-> 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
+> 我們的客戶有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภ、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
 Attention: When a webpage needs to conform to the overall visual style by displaying all uppercase/lowercase letters, please, in HTML, input those letters following standard case formatting; and define the appearance style via `text-transform: uppercase;`／`text-transform: lowercase;`.
 
