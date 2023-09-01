@@ -130,7 +130,7 @@ Bad:
 >
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
-Exceptions: inline English titles of books and journals with italics, instead of fullwidth title marks.
+Exception: inline English titles of books and journals with italics, instead of fullwidth title marks.
 
 ### Use numbers in halfwidth form
 
