@@ -260,6 +260,7 @@ Repository | Category | Language
 [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | other | Python
 [hustcc/hint](https://github.com/hustcc/hint) | other | Python
 [n0vad3v/Tekorrect](https://github.com/n0vad3v/Tekorrect) | other | Python
+[naisi-alibaba/doc-format-check](https://github.com/naisi-alibaba/doc-format-check) | other | Python (CLI, AI Agent Skill)
 
 ## Examples of “Who is doing this?”
 
